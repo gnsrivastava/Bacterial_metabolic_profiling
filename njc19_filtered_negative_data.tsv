@@ -1,0 +1,764 @@
+Species	metabolites	activity	Ref. #	KEGG_ID	STRING_name_compact	Score	Stringdb	taxon_id	MolecularWeight	LogP	HBD	HBA
+Absiella dolichum	D-Galactose	Consumption (import) (-)	424	C00124	Absiella dolichum	100	v12	428127	180.156	-3.2214	5.0	6.0
+Absiella dolichum	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	424	C00257	Absiella dolichum	100	v12	428127	196.155	-3.493099999999999	6.0	6.0
+Absiella dolichum	Erythritol	Consumption (import) (-)	242	C00503	Absiella dolichum	100	v12	428127	122.12	-2.3071999999999995	4.0	4.0
+Absiella dolichum	Glycerol	Consumption (import) (-)	424	C00116	Absiella dolichum	100	v12	428127	92.094	-1.6681	3.0	3.0
+Absiella dolichum	Hippurate	Consumption (import) (-)	242	C01586	Absiella dolichum	100	v12	428127	179.17499999999998	0.5009999999999999	2.0	2.0
+Absiella dolichum	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	242	C00186	Absiella dolichum	100	v12	428127	90.078	-0.5482	2.0	2.0
+Absiella dolichum	L-Sorbose (Sorbose)	Consumption (import) (-)	424	C00247	Absiella dolichum	100	v12	428127	180.156	-3.2198	5.0	6.0
+Absiella dolichum	Pyruvate	Consumption (import) (-)	424	C00022	Absiella dolichum	100	v12	428127	88.062	-0.3400000000000001	1.0	2.0
+Actinosynnema mirum	Acetate	Consumption (import) (-)	631	C00033	Actinosynnema mirum	100	v12	446462	60.05200000000001	0.0908999999999999	1.0	1.0
+Actinosynnema mirum	Benzoate	Consumption (import) (-)	631	C00180	Actinosynnema mirum	100	v12	446462	122.12299999999998	1.3848	1.0	1.0
+Actinosynnema mirum	Citrate	Consumption (import) (-)	631	C00158	Actinosynnema mirum	100	v12	446462	192.123	-1.2485	4.0	4.0
+Actinosynnema mirum	D-Ribose (Ribose)	Consumption (import) (-)	631	C00121	Actinosynnema mirum	100	v12	446462	150.13	-2.5823	4.0	5.0
+Actinosynnema mirum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	631	C00794	Actinosynnema mirum	100	v12	446462	182.17200000000005	-3.5853999999999986	6.0	6.0
+Actinosynnema mirum	Erythritol	Consumption (import) (-)	631	C00503	Actinosynnema mirum	100	v12	446462	122.12	-2.3071999999999995	4.0	4.0
+Actinosynnema mirum	Galactitol (Dulcitol)	Consumption (import) (-)	631	C01697	Actinosynnema mirum	100	v12	446462	182.17200000000005	-3.5853999999999986	6.0	6.0
+Actinosynnema mirum	Glycerol	Consumption (import) (-)	631	C00116	Actinosynnema mirum	100	v12	446462	92.094	-1.6681	3.0	3.0
+Actinosynnema mirum	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	631	C00137	Actinosynnema mirum	100	v12	446462	180.156	-3.834600000000001	6.0	6.0
+Actinosynnema mirum	Succinate	Consumption (import) (-)	631	C00042	Actinosynnema mirum	100	v12	446462	118.08799999999998	-0.0642	2.0	2.0
+Aerococcus viridans	D-Tagatose	Consumption (import) (-)	607	C00795	Aerococcus viridans	100	v12	1377	180.156	-3.2198	5.0	6.0
+Alloprevotella rava	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	421	C00216	Alloprevotella rava	100	v12	679199	150.13	-2.5823	4.0	5.0
+Alloprevotella rava	D-Mannitol (Mannitol)	Consumption (import) (-)	421	C00392	Alloprevotella rava	100	v12	679199	182.17200000000005	-3.5853999999999986	6.0	6.0
+Alloprevotella rava	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	421	C00794	Alloprevotella rava	100	v12	679199	182.17200000000005	-3.5853999999999986	6.0	6.0
+Alloprevotella rava	D-Xylose (Xylose)	Consumption (import) (-)	421	C00181	Alloprevotella rava	100	v12	679199	150.13	-2.5823	4.0	5.0
+Alloprevotella rava	L-Arginine (Arginine)	Consumption (import) (-)	421	C00062	Alloprevotella rava	100	v12	679199	174.204	-1.338429999999999	5.0	3.0
+Alloprevotella rava	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	421	C00507	Alloprevotella rava	100	v12	679199	164.15699999999998	-2.1938	4.0	5.0
+Alloprevotella rava	Melibiose	Consumption (import) (-)	421	C05402	Alloprevotella rava	100	v12	679199	342.297	-5.397199999999993	8.0	11.0
+Alloprevotella rava	Raffinose	Consumption (import) (-)	421	C00492	Alloprevotella rava	100	v12	679199	504.43800000000016	-7.571399999999989	11.0	16.0
+Alloprevotella rava	Sucrose	Consumption (import) (-)	421	C00089	Alloprevotella rava	100	v12	679199	342.297	-5.395599999999992	8.0	11.0
+Alloprevotella rava	Trehalose	Consumption (import) (-)	421	C01083	Alloprevotella rava	100	v12	679199	342.2970000000001	-5.397199999999993	8.0	11.0
+Alloprevotella rava	Urea	Consumption (import) (-)	421	C00086	Alloprevotella rava	100	v12	679199	60.056	-0.9762000000000002	2.0	1.0
+Anaerostipes hadrus	D-Ribose (Ribose)	Consumption (import) (-)	424	C00121	Anaerostipes hadrus	100	v12	649756	150.13	-2.5823	4.0	5.0
+Anaerostipes hadrus	Erythritol	Consumption (import) (-)	242	C00503	Anaerostipes hadrus	100	v12	649756	122.12	-2.3071999999999995	4.0	4.0
+Anaerostipes hadrus	Glycerol	Consumption (import) (-)	424	C00116	Anaerostipes hadrus	100	v12	649756	92.094	-1.6681	3.0	3.0
+Anaerostipes hadrus	Hippurate	Consumption (import) (-)	242	C01586	Anaerostipes hadrus	100	v12	649756	179.17499999999998	0.5009999999999999	2.0	2.0
+Anaerostipes hadrus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	424	C00507	Anaerostipes hadrus	100	v12	649756	164.15699999999998	-2.1938	4.0	5.0
+Anaerostipes hadrus	Melibiose	Consumption (import) (-)	424	C05402	Anaerostipes hadrus	100	v12	649756	342.297	-5.397199999999993	8.0	11.0
+Anaerostipes hadrus	Raffinose	Consumption (import) (-)	424	C00492	Anaerostipes hadrus	100	v12	649756	504.43800000000016	-7.571399999999989	11.0	16.0
+Bacteroides massiliensis	Cellobiose	Consumption (import) (-)	426	C00185	Bacteroides massiliensis	100	v12	1121098	342.2970000000001	-5.397199999999993	8.0	11.0
+Bacteroides massiliensis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	426	C00216	Bacteroides massiliensis	100	v12	1121098	150.13	-2.5823	4.0	5.0
+Bacteroides massiliensis	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	426	C00257	Bacteroides massiliensis	100	v12	1121098	196.155	-3.493099999999999	6.0	6.0
+Bacteroides massiliensis	D-Mannitol (Mannitol)	Consumption (import) (-)	426	C00392	Bacteroides massiliensis	100	v12	1121098	182.17200000000005	-3.5853999999999986	6.0	6.0
+Bacteroides massiliensis	D-Ribose (Ribose)	Consumption (import) (-)	426	C00121	Bacteroides massiliensis	100	v12	1121098	150.13	-2.5823	4.0	5.0
+Bacteroides massiliensis	D-Xylose (Xylose)	Consumption (import) (-)	426	C00181	Bacteroides massiliensis	100	v12	1121098	150.13	-2.5823	4.0	5.0
+Bacteroides massiliensis	Erythritol	Consumption (import) (-)	426	C00503	Bacteroides massiliensis	100	v12	1121098	122.12	-2.3071999999999995	4.0	4.0
+Bacteroides massiliensis	Glycerol	Consumption (import) (-)	426	C00116	Bacteroides massiliensis	100	v12	1121098	92.094	-1.6681	3.0	3.0
+Bacteroides massiliensis	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	426	C00137	Bacteroides massiliensis	100	v12	1121098	180.156	-3.834600000000001	6.0	6.0
+Bacteroides massiliensis	L-Fucose	Consumption (import) (-)	426	C01019	Bacteroides massiliensis	100	v12	1121098	164.15699999999998	-2.1938	4.0	5.0
+Bacteroides massiliensis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	426	C00507	Bacteroides massiliensis	100	v12	1121098	164.15699999999998	-2.1938	4.0	5.0
+Bacteroides massiliensis	L-Sorbose (Sorbose)	Consumption (import) (-)	426	C00247	Bacteroides massiliensis	100	v12	1121098	180.156	-3.2198	5.0	6.0
+Bacteroides massiliensis	Trehalose	Consumption (import) (-)	426	C01083	Bacteroides massiliensis	100	v12	1121098	342.2970000000001	-5.397199999999993	8.0	11.0
+Bacteroides massiliensis	Xylitol	Consumption (import) (-)	426	C00379	Bacteroides massiliensis	100	v12	1121098	152.14600000000002	-2.9462999999999995	5.0	5.0
+Bacteroides nordii	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	427	C00216	Bacteroides nordii	100	v12	997884	150.13	-2.5823	4.0	5.0
+Bacteroides nordii	Trehalose	Consumption (import) (-)	427	C01083	Bacteroides nordii	100	v12	997884	342.2970000000001	-5.397199999999993	8.0	11.0
+Bacteroides pyogenes	D-Mannitol (Mannitol)	Consumption (import) (-)	429	C00392	Bacteroides pyogenes JCM10003	95	v12	1235813	182.17200000000005	-3.5853999999999986	6.0	6.0
+Bacteroides pyogenes	Erythritol	Consumption (import) (-)	429	C00503	Bacteroides pyogenes JCM10003	95	v12	1235813	122.12	-2.3071999999999995	4.0	4.0
+Bacteroides pyogenes	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	429	C00137	Bacteroides pyogenes JCM10003	95	v12	1235813	180.156	-3.834600000000001	6.0	6.0
+Bacteroides pyogenes	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	429	C00507	Bacteroides pyogenes JCM10003	95	v12	1235813	164.15699999999998	-2.1938	4.0	5.0
+Bacteroides pyogenes	Ribitol (Adonitol)	Consumption (import) (-)	429	C00474	Bacteroides pyogenes JCM10003	95	v12	1235813	152.14600000000002	-2.9462999999999995	5.0	5.0
+Bacteroides pyogenes	Trehalose	Consumption (import) (-)	429	C01083	Bacteroides pyogenes JCM10003	95	v12	1235813	342.2970000000001	-5.397199999999993	8.0	11.0
+Bacteroides thetaiotaomicron	N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)	Consumption (import) (-)	715	C00270	Bacteroides thetaiotaomicron	100	v12	226186	309.271	-3.871799999999997	7.0	8.0
+Caldanaerobacter subterraneus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	433	C00216	Caldanaerobacter subterraneus	100	v12	273068	150.13	-2.5823	4.0	5.0
+Caldanaerobacter subterraneus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	433	C00507	Caldanaerobacter subterraneus	100	v12	273068	164.15699999999998	-2.1938	4.0	5.0
+Caldanaerobacter subterraneus	L-Sorbose (Sorbose)	Consumption (import) (-)	433	C00247	Caldanaerobacter subterraneus	100	v12	273068	180.156	-3.2198	5.0	6.0
+Caldanaerobacter subterraneus	Sucrose	Consumption (import) (-)	433	C00089	Caldanaerobacter subterraneus	100	v12	273068	342.297	-5.395599999999992	8.0	11.0
+Caloramator australicus	D-Ribose (Ribose)	Consumption (import) (-)	437	C00121	Caloramator australicus	100	v12	857293	150.13	-2.5823	4.0	5.0
+Caloramator australicus	L-Serine (Serine, D-Serine)	Consumption (import) (-)	437	C00065	Caloramator australicus	100	v12	857293	105.09299999999998	-1.6093999999999995	3.0	3.0
+Campylobacter ureolyticus	Selenite	Consumption (import) (-)	439	C05684	Campylobacter ureolyticus	100	v12	1032069	126.95699999999998	-2.8776	0.0	3.0
+Candida albicans	Lactose	Consumption (import) (-)	442	C00243	Candida albicans	100	v12	237561	342.2970000000001	-5.397199999999993	8.0	11.0
+Capnocytophaga canimorsus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	452	C00216	Capnocytophaga canimorsus	100	v12	860228	150.13	-2.5823	4.0	5.0
+Capnocytophaga canimorsus	D-Mannitol (Mannitol)	Consumption (import) (-)	452	C00392	Capnocytophaga canimorsus	100	v12	860228	182.17200000000005	-3.5853999999999986	6.0	6.0
+Capnocytophaga canimorsus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	452	C00794	Capnocytophaga canimorsus	100	v12	860228	182.17200000000005	-3.5853999999999986	6.0	6.0
+Capnocytophaga canimorsus	D-Xylose (Xylose)	Consumption (import) (-)	452	C00181	Capnocytophaga canimorsus	100	v12	860228	150.13	-2.5823	4.0	5.0
+Capnocytophaga canimorsus	Galactitol (Dulcitol)	Consumption (import) (-)	452	C01697	Capnocytophaga canimorsus	100	v12	860228	182.17200000000005	-3.5853999999999986	6.0	6.0
+Capnocytophaga canimorsus	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	452	C00137	Capnocytophaga canimorsus	100	v12	860228	180.156	-3.834600000000001	6.0	6.0
+Capnocytophaga canimorsus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	452	C00507	Capnocytophaga canimorsus	100	v12	860228	164.15699999999998	-2.1938	4.0	5.0
+Capnocytophaga canimorsus	Melibiose	Consumption (import) (-)	452	C05402	Capnocytophaga canimorsus	100	v12	860228	342.297	-5.397199999999993	8.0	11.0
+Capnocytophaga canimorsus	Raffinose	Consumption (import) (-)	452	C00492	Capnocytophaga canimorsus	100	v12	860228	504.43800000000016	-7.571399999999989	11.0	16.0
+Capnocytophaga canimorsus	Sucrose	Consumption (import) (-)	452	C00089	Capnocytophaga canimorsus	100	v12	860228	342.297	-5.395599999999992	8.0	11.0
+Capnocytophaga canimorsus	Trehalose	Consumption (import) (-)	452	C01083	Capnocytophaga canimorsus	100	v12	860228	342.2970000000001	-5.397199999999993	8.0	11.0
+Capnocytophaga cynodegmi	D-Mannitol (Mannitol)	Consumption (import) (-)	452	C00392	Capnocytophaga cynodegmi	100	v12	28189	182.17200000000005	-3.5853999999999986	6.0	6.0
+Capnocytophaga cynodegmi	D-Xylose (Xylose)	Consumption (import) (-)	452	C00181	Capnocytophaga cynodegmi	100	v12	28189	150.13	-2.5823	4.0	5.0
+Catellicoccus marimammalium	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	453	C00216	Catellicoccus marimammalium	100	v12	1234409	150.13	-2.5823	4.0	5.0
+Catellicoccus marimammalium	D-Mannitol (Mannitol)	Consumption (import) (-)	453	C00392	Catellicoccus marimammalium	100	v12	1234409	182.17200000000005	-3.5853999999999986	6.0	6.0
+Catellicoccus marimammalium	D-Ribose (Ribose)	Consumption (import) (-)	453	C00121	Catellicoccus marimammalium	100	v12	1234409	150.13	-2.5823	4.0	5.0
+Catellicoccus marimammalium	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	453	C00794	Catellicoccus marimammalium	100	v12	1234409	182.17200000000005	-3.5853999999999986	6.0	6.0
+Catellicoccus marimammalium	D-Tagatose	Consumption (import) (-)	453	C00795	Catellicoccus marimammalium	100	v12	1234409	180.156	-3.2198	5.0	6.0
+Catellicoccus marimammalium	Lactose	Consumption (import) (-)	453	C00243	Catellicoccus marimammalium	100	v12	1234409	342.2970000000001	-5.397199999999993	8.0	11.0
+Catellicoccus marimammalium	Maltose	Consumption (import) (-)	453	C00208	Catellicoccus marimammalium	100	v12	1234409	342.2970000000001	-5.397199999999993	8.0	11.0
+Catellicoccus marimammalium	Melibiose	Consumption (import) (-)	453	C05402	Catellicoccus marimammalium	100	v12	1234409	342.297	-5.397199999999993	8.0	11.0
+Catellicoccus marimammalium	Raffinose	Consumption (import) (-)	453	C00492	Catellicoccus marimammalium	100	v12	1234409	504.43800000000016	-7.571399999999989	11.0	16.0
+Catellicoccus marimammalium	Sucrose	Consumption (import) (-)	453	C00089	Catellicoccus marimammalium	100	v12	1234409	342.297	-5.395599999999992	8.0	11.0
+Chlorobium phaeobacteroides	Sulfate (Sulfuric acid, Sulfite)	Consumption (import) (-)	637	C00059	Chlorobium phaeobacteroides DSM 266	95	v12	290317	98.07899999999998	-0.6527999999999998	2.0	2.0
+Clostridium arbusti	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	455	C00794	Clostridium arbusti	100	v12	545243	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium arbusti	D-Xylose (Xylose)	Consumption (import) (-)	455	C00181	Clostridium arbusti	100	v12	545243	150.13	-2.5823	4.0	5.0
+Clostridium arbusti	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	455	C00186	Clostridium arbusti	100	v12	545243	90.078	-0.5482	2.0	2.0
+Clostridium arbusti	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	455	C00507	Clostridium arbusti	100	v12	545243	164.15699999999998	-2.1938	4.0	5.0
+Clostridium arbusti	Sucrose	Consumption (import) (-)	455	C00089	Clostridium arbusti	100	v12	545243	342.297	-5.395599999999992	8.0	11.0
+Clostridium arbusti	Trehalose	Consumption (import) (-)	455	C01083	Clostridium arbusti	100	v12	545243	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium celatum	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	459	C00216	Clostridium celatum	100	v12	545697	150.13	-2.5823	4.0	5.0
+Clostridium celatum	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	459	C00257	Clostridium celatum	100	v12	545697	196.155	-3.493099999999999	6.0	6.0
+Clostridium celatum	D-Mannitol (Mannitol)	Consumption (import) (-)	459	C00392	Clostridium celatum	100	v12	545697	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium celatum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	459	C00794	Clostridium celatum	100	v12	545697	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium celatum	D-Xylose (Xylose)	Consumption (import) (-)	459	C00181	Clostridium celatum	100	v12	545697	150.13	-2.5823	4.0	5.0
+Clostridium celatum	Erythritol	Consumption (import) (-)	459	C00503	Clostridium celatum	100	v12	545697	122.12	-2.3071999999999995	4.0	4.0
+Clostridium celatum	Glycerol	Consumption (import) (-)	459	C00116	Clostridium celatum	100	v12	545697	92.094	-1.6681	3.0	3.0
+Clostridium celatum	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	459	C00137	Clostridium celatum	100	v12	545697	180.156	-3.834600000000001	6.0	6.0
+Clostridium celatum	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	459	C00186	Clostridium celatum	100	v12	545697	90.078	-0.5482	2.0	2.0
+Clostridium celatum	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	459	C00507	Clostridium celatum	100	v12	545697	164.15699999999998	-2.1938	4.0	5.0
+Clostridium celatum	Melibiose	Consumption (import) (-)	459	C05402	Clostridium celatum	100	v12	545697	342.297	-5.397199999999993	8.0	11.0
+Clostridium celatum	Raffinose	Consumption (import) (-)	459	C00492	Clostridium celatum	100	v12	545697	504.43800000000016	-7.571399999999989	11.0	16.0
+Clostridium citroniae	Cellobiose	Consumption (import) (-)	460	C00185	Clostridium citroniae	100	v12	358743	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium citroniae	D-Mannitol (Mannitol)	Consumption (import) (-)	460	C00392	Clostridium citroniae	100	v12	358743	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium citroniae	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	460	C00794	Clostridium citroniae	100	v12	358743	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium citroniae	Lactose	Consumption (import) (-)	460	C00243	Clostridium citroniae	100	v12	358743	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium citroniae	Raffinose	Consumption (import) (-)	460	C00492	Clostridium citroniae	100	v12	358743	504.43800000000016	-7.571399999999989	11.0	16.0
+Clostridium clostridioforme	D-Mannitol (Mannitol)	Consumption (import) (-)	461	C00392	Clostridium clostridioforme	100	v12	1280695	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium clostridioforme	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	461	C00137	Clostridium clostridioforme	100	v12	1280695	180.156	-3.834600000000001	6.0	6.0
+Clostridium clostridioforme	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	461	C00186	Clostridium clostridioforme	100	v12	1280695	90.078	-0.5482	2.0	2.0
+Clostridium colicanis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	462	C00216	Clostridium colicanis 209318	95	v12	999411	150.13	-2.5823	4.0	5.0
+Clostridium colicanis	D-Mannitol (Mannitol)	Consumption (import) (-)	462	C00392	Clostridium colicanis 209318	95	v12	999411	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium colicanis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	462	C00794	Clostridium colicanis 209318	95	v12	999411	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium colicanis	D-Xylose (Xylose)	Consumption (import) (-)	462	C00181	Clostridium colicanis 209318	95	v12	999411	150.13	-2.5823	4.0	5.0
+Clostridium colicanis	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	462	C00137	Clostridium colicanis 209318	95	v12	999411	180.156	-3.834600000000001	6.0	6.0
+Clostridium colicanis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	462	C00507	Clostridium colicanis 209318	95	v12	999411	164.15699999999998	-2.1938	4.0	5.0
+Clostridium colicanis	Melibiose	Consumption (import) (-)	462	C05402	Clostridium colicanis 209318	95	v12	999411	342.297	-5.397199999999993	8.0	11.0
+Clostridium colicanis	Raffinose	Consumption (import) (-)	462	C00492	Clostridium colicanis 209318	95	v12	999411	504.43800000000016	-7.571399999999989	11.0	16.0
+Clostridium colicanis	Trehalose	Consumption (import) (-)	462	C01083	Clostridium colicanis 209318	95	v12	999411	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium saccharobutylicum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	465	C00794	Clostridium saccharobutylicum	100	v12	169679	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium saccharobutylicum	Glycerol	Consumption (import) (-)	465	C00116	Clostridium saccharobutylicum	100	v12	169679	92.094	-1.6681	3.0	3.0
+Clostridium saccharobutylicum	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	465	C00507	Clostridium saccharobutylicum	100	v12	169679	164.15699999999998	-2.1938	4.0	5.0
+Clostridium saccharoperbutylacetonicum	D-Ribose (Ribose)	Consumption (import) (-)	465	C00121	Clostridium saccharoperbutylacetonicum	100	v12	36745	150.13	-2.5823	4.0	5.0
+Clostridium saccharoperbutylacetonicum	Glycerol	Consumption (import) (-)	465	C00116	Clostridium saccharoperbutylacetonicum	100	v12	36745	92.094	-1.6681	3.0	3.0
+Clostridium tyrobutyricum	Cellobiose	Consumption (import) (-)	470	C00185	Clostridium tyrobutyricum	100	v12	1519	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium tyrobutyricum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	470	C00794	Clostridium tyrobutyricum	100	v12	1519	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium tyrobutyricum	Glycerol	Consumption (import) (-)	470	C00116	Clostridium tyrobutyricum	100	v12	1519	92.094	-1.6681	3.0	3.0
+Clostridium tyrobutyricum	Lactose	Consumption (import) (-)	470	C00243	Clostridium tyrobutyricum	100	v12	1519	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium tyrobutyricum	Maltose	Consumption (import) (-)	470	C00208	Clostridium tyrobutyricum	100	v12	1519	342.2970000000001	-5.397199999999993	8.0	11.0
+Clostridium tyrobutyricum	Raffinose	Consumption (import) (-)	470	C00492	Clostridium tyrobutyricum	100	v12	1519	504.43800000000016	-7.571399999999989	11.0	16.0
+Clostridium tyrobutyricum	Sucrose	Consumption (import) (-)	470	C00089	Clostridium tyrobutyricum	100	v12	1519	342.297	-5.395599999999992	8.0	11.0
+Clostridium tyrobutyricum	Trehalose	Consumption (import) (-)	470	C01083	Clostridium tyrobutyricum	100	v12	1519	342.2970000000001	-5.397199999999993	8.0	11.0
+Desulfobacula toluolica	Benzyl alcohol	Consumption (import) (-)	472	C00556	Desulfobacula toluolica	100	v12	651182	108.13999999999996	1.1789	1.0	1.0
+Desulfobacula toluolica	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	472	C00186	Desulfobacula toluolica	100	v12	651182	90.078	-0.5482	2.0	2.0
+Desulfovibrio alaskensis	Glycerol	Consumption (import) (-)	725	C00116	Desulfovibrio alaskensis	100	v12	207559	92.094	-1.6681	3.0	3.0
+Desulfovibrio alaskensis	L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)	Consumption (import) (-)	725	C00025	Desulfovibrio alaskensis	100	v12	207559	147.13	-0.7368999999999999	3.0	3.0
+Desulfovibrio alaskensis	Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)	Consumption (import) (-)	725	C00249	Desulfovibrio alaskensis	100	v12	207559	256.42999999999995	5.552300000000005	1.0	1.0
+Desulfovibrio desulfuricans	Acetate	Consumption (import) (-)	717	C00033	Desulfovibrio desulfuricans ATCC 27774	95	v12	525146	60.05200000000001	0.0908999999999999	1.0	1.0
+Desulfovibrio desulfuricans	Butyrate	Consumption (import) (-)	717	C00246	Desulfovibrio desulfuricans ATCC 27774	95	v12	525146	88.106	0.8711	1.0	1.0
+Desulfovibrio desulfuricans	Indole	Consumption (import) (-)	718	C00463	Desulfovibrio desulfuricans ATCC 27774	95	v12	525146	117.15099999999995	2.1678999999999995	1.0	0.0
+Desulfovibrio gigas	Acetate	Consumption (import) (-)	727	C00033	Desulfovibrio gigas	100	v12	1121448	60.05200000000001	0.0908999999999999	1.0	1.0
+Desulfovibrio gigas	D-Glucose (Glucose)	Consumption (import) (-)	727	C00031	Desulfovibrio gigas	100	v12	1121448	180.156	-3.2214	5.0	6.0
+Desulfovibrio piger	Fumarate	Consumption (import) (-)	424, 765	C00122	Desulfovibrio piger	100	v12	901	116.07199999999996	-0.2881999999999998	2.0	2.0
+Desulfovibrio piger	Indole	Consumption (import) (-)	650(G)	C00463	Desulfovibrio piger	100	v12	901	117.15099999999995	2.1678999999999995	1.0	0.0
+Desulfovibrio piger	Propanoate (Propionate)	Consumption (import) (-)	765	C00163	Desulfovibrio piger	100	v12	901	74.07900000000001	0.4809999999999999	1.0	1.0
+Elizabethkingia anophelis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	480	C00216	Elizabethkingia anophelis	100	v12	1338011	150.13	-2.5823	4.0	5.0
+Elizabethkingia anophelis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	480	C00794	Elizabethkingia anophelis	100	v12	1338011	182.17200000000005	-3.5853999999999986	6.0	6.0
+Elizabethkingia anophelis	D-Xylose (Xylose)	Consumption (import) (-)	480	C00181	Elizabethkingia anophelis	100	v12	1338011	150.13	-2.5823	4.0	5.0
+Elizabethkingia anophelis	Erythritol	Consumption (import) (-)	480	C00503	Elizabethkingia anophelis	100	v12	1338011	122.12	-2.3071999999999995	4.0	4.0
+Elizabethkingia anophelis	Galactitol (Dulcitol)	Consumption (import) (-)	480	C01697	Elizabethkingia anophelis	100	v12	1338011	182.17200000000005	-3.5853999999999986	6.0	6.0
+Elizabethkingia anophelis	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	480	C00137	Elizabethkingia anophelis	100	v12	1338011	180.156	-3.834600000000001	6.0	6.0
+Elizabethkingia anophelis	Malonate	Consumption (import) (-)	480	C00383	Elizabethkingia anophelis	100	v12	1338011	104.06099999999998	-0.4543	2.0	2.0
+Elizabethkingia anophelis	Melibiose	Consumption (import) (-)	480	C05402	Elizabethkingia anophelis	100	v12	1338011	342.297	-5.397199999999993	8.0	11.0
+Elizabethkingia anophelis	Raffinose	Consumption (import) (-)	480	C00492	Elizabethkingia anophelis	100	v12	1338011	504.43800000000016	-7.571399999999989	11.0	16.0
+Elizabethkingia meningoseptica	Cellobiose	Consumption (import) (-)	481	C00185	Elizabethkingia meningoseptica	100	v12	238	342.2970000000001	-5.397199999999993	8.0	11.0
+Elizabethkingia meningoseptica	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	481	C00216	Elizabethkingia meningoseptica	100	v12	238	150.13	-2.5823	4.0	5.0
+Elizabethkingia meningoseptica	D-Xylose (Xylose)	Consumption (import) (-)	481	C00181	Elizabethkingia meningoseptica	100	v12	238	150.13	-2.5823	4.0	5.0
+Elizabethkingia meningoseptica	Raffinose	Consumption (import) (-)	481	C00492	Elizabethkingia meningoseptica	100	v12	238	504.43800000000016	-7.571399999999989	11.0	16.0
+Elizabethkingia meningoseptica	Sucrose	Consumption (import) (-)	481	C00089	Elizabethkingia meningoseptica	100	v12	238	342.297	-5.395599999999992	8.0	11.0
+Emticicia oligotrophica	Erythritol	Consumption (import) (-)	483	C00503	Emticicia oligotrophica	100	v12	929562	122.12	-2.3071999999999995	4.0	4.0
+Emticicia oligotrophica	L-Tyrosine (Tyrosine)	Consumption (import) (-)	483	C00082	Emticicia oligotrophica	100	v12	929562	181.191	0.3465999999999998	3.0	3.0
+Emticicia oligotrophica	Xylitol	Consumption (import) (-)	483	C00379	Emticicia oligotrophica	100	v12	929562	152.14600000000002	-2.9462999999999995	5.0	5.0
+Enterococcus caccae	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	484	C00216	Enterococcus caccae	100	v12	317735	150.13	-2.5823	4.0	5.0
+Enterococcus caccae	D-Mannitol (Mannitol)	Consumption (import) (-)	484	C00392	Enterococcus caccae	100	v12	317735	182.17200000000005	-3.5853999999999986	6.0	6.0
+Enterococcus caccae	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	484	C00794	Enterococcus caccae	100	v12	317735	182.17200000000005	-3.5853999999999986	6.0	6.0
+Enterococcus caccae	Hippurate	Consumption (import) (-)	484	C01586	Enterococcus caccae	100	v12	317735	179.17499999999998	0.5009999999999999	2.0	2.0
+Enterococcus caccae	L-Arginine (Arginine)	Consumption (import) (-)	484	C00062	Enterococcus caccae	100	v12	317735	174.204	-1.338429999999999	5.0	3.0
+Enterococcus caccae	L-Sorbose (Sorbose)	Consumption (import) (-)	484	C00247	Enterococcus caccae	100	v12	317735	180.156	-3.2198	5.0	6.0
+Enterococcus caccae	Lactose	Consumption (import) (-)	484	C00243	Enterococcus caccae	100	v12	317735	342.2970000000001	-5.397199999999993	8.0	11.0
+Enterococcus caccae	Melibiose	Consumption (import) (-)	484	C05402	Enterococcus caccae	100	v12	317735	342.297	-5.397199999999993	8.0	11.0
+Enterococcus caccae	Raffinose	Consumption (import) (-)	484	C00492	Enterococcus caccae	100	v12	317735	504.43800000000016	-7.571399999999989	11.0	16.0
+Enterococcus haemoperoxidus	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	485	C00257	Enterococcus haemoperoxidus	100	v12	155618	196.155	-3.493099999999999	6.0	6.0
+Enterococcus haemoperoxidus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	485	C00794	Enterococcus haemoperoxidus	100	v12	155618	182.17200000000005	-3.5853999999999986	6.0	6.0
+Enterococcus haemoperoxidus	Erythritol	Consumption (import) (-)	485	C00503	Enterococcus haemoperoxidus	100	v12	155618	122.12	-2.3071999999999995	4.0	4.0
+Enterococcus haemoperoxidus	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	485	C00137	Enterococcus haemoperoxidus	100	v12	155618	180.156	-3.834600000000001	6.0	6.0
+Enterococcus haemoperoxidus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	485	C00507	Enterococcus haemoperoxidus	100	v12	155618	164.15699999999998	-2.1938	4.0	5.0
+Enterococcus haemoperoxidus	Melibiose	Consumption (import) (-)	485	C05402	Enterococcus haemoperoxidus	100	v12	155618	342.297	-5.397199999999993	8.0	11.0
+Enterococcus haemoperoxidus	Xylitol	Consumption (import) (-)	485	C00379	Enterococcus haemoperoxidus	100	v12	155618	152.14600000000002	-2.9462999999999995	5.0	5.0
+Enterococcus phoeniculicola	D-Galactose	Consumption (import) (-)	486	C00124	Enterococcus phoeniculicola	100	v12	154621	180.156	-3.2214	5.0	6.0
+Enterococcus phoeniculicola	Melibiose	Consumption (import) (-)	486	C05402	Enterococcus phoeniculicola	100	v12	154621	342.297	-5.397199999999993	8.0	11.0
+Enterococcus phoeniculicola	Raffinose	Consumption (import) (-)	486	C00492	Enterococcus phoeniculicola	100	v12	154621	504.43800000000016	-7.571399999999989	11.0	16.0
+Enterococcus phoeniculicola	Succinate	Consumption (import) (-)	486	C00042	Enterococcus phoeniculicola	100	v12	154621	118.08799999999998	-0.0642	2.0	2.0
+Enterococcus villorum	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	487	C00216	Enterococcus villorum	100	v12	112904	150.13	-2.5823	4.0	5.0
+Enterococcus villorum	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	487	C00257	Enterococcus villorum	100	v12	112904	196.155	-3.493099999999999	6.0	6.0
+Enterococcus villorum	D-Mannitol (Mannitol)	Consumption (import) (-)	487	C00392	Enterococcus villorum	100	v12	112904	182.17200000000005	-3.5853999999999986	6.0	6.0
+Enterococcus villorum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	487	C00794	Enterococcus villorum	100	v12	112904	182.17200000000005	-3.5853999999999986	6.0	6.0
+Enterococcus villorum	D-Tagatose	Consumption (import) (-)	487	C00795	Enterococcus villorum	100	v12	112904	180.156	-3.2198	5.0	6.0
+Enterococcus villorum	Erythritol	Consumption (import) (-)	487	C00503	Enterococcus villorum	100	v12	112904	122.12	-2.3071999999999995	4.0	4.0
+Enterococcus villorum	Galactitol (Dulcitol)	Consumption (import) (-)	487	C01697	Enterococcus villorum	100	v12	112904	182.17200000000005	-3.5853999999999986	6.0	6.0
+Enterococcus villorum	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	487	C00137	Enterococcus villorum	100	v12	112904	180.156	-3.834600000000001	6.0	6.0
+Enterococcus villorum	L-Fucose	Consumption (import) (-)	487	C01019	Enterococcus villorum	100	v12	112904	164.15699999999998	-2.1938	4.0	5.0
+Enterococcus villorum	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	487	C00507	Enterococcus villorum	100	v12	112904	164.15699999999998	-2.1938	4.0	5.0
+Enterococcus villorum	L-Sorbose (Sorbose)	Consumption (import) (-)	487	C00247	Enterococcus villorum	100	v12	112904	180.156	-3.2198	5.0	6.0
+Enterococcus villorum	Raffinose	Consumption (import) (-)	487	C00492	Enterococcus villorum	100	v12	112904	504.43800000000016	-7.571399999999989	11.0	16.0
+Enterococcus villorum	Sucrose	Consumption (import) (-)	487	C00089	Enterococcus villorum	100	v12	112904	342.297	-5.395599999999992	8.0	11.0
+Enterococcus villorum	Xylitol	Consumption (import) (-)	487	C00379	Enterococcus villorum	100	v12	112904	152.14600000000002	-2.9462999999999995	5.0	5.0
+Escherichia coli	L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)	Consumption (import) (-)	719	C00025	Escherichia coli CFT073	95	v12	199310	147.13	-0.7368999999999999	3.0	3.0
+Eubacterium brachy	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	489	C00186	Eubacterium brachy	100	v12	1321814	90.078	-0.5482	2.0	2.0
+Eubacterium brachy	Pyruvate	Consumption (import) (-)	489	C00022	Eubacterium brachy	100	v12	1321814	88.062	-0.3400000000000001	1.0	2.0
+Eubacterium plexicaudatum	D-Mannitol (Mannitol)	Consumption (import) (-)	613	C00392	Eubacterium plexicaudatum	100	v12	1235802	182.17200000000005	-3.5853999999999986	6.0	6.0
+Eubacterium plexicaudatum	Erythritol	Consumption (import) (-)	613	C00503	Eubacterium plexicaudatum	100	v12	1235802	122.12	-2.3071999999999995	4.0	4.0
+Eubacterium plexicaudatum	Glycerol	Consumption (import) (-)	613	C00116	Eubacterium plexicaudatum	100	v12	1235802	92.094	-1.6681	3.0	3.0
+Eubacterium plexicaudatum	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	613	C00137	Eubacterium plexicaudatum	100	v12	1235802	180.156	-3.834600000000001	6.0	6.0
+Eubacterium plexicaudatum	L-Sorbose (Sorbose)	Consumption (import) (-)	613	C00247	Eubacterium plexicaudatum	100	v12	1235802	180.156	-3.2198	5.0	6.0
+Eubacterium ramulus	D-Ribose (Ribose)	Consumption (import) (-)	424	C00121	Eubacterium ramulus	100	v12	39490	150.13	-2.5823	4.0	5.0
+Eubacterium ramulus	D-Xylose (Xylose)	Consumption (import) (-)	424	C00181	Eubacterium ramulus	100	v12	39490	150.13	-2.5823	4.0	5.0
+Eubacterium ramulus	Erythritol	Consumption (import) (-)	242	C00503	Eubacterium ramulus	100	v12	39490	122.12	-2.3071999999999995	4.0	4.0
+Eubacterium ramulus	Glycerol	Consumption (import) (-)	424	C00116	Eubacterium ramulus	100	v12	39490	92.094	-1.6681	3.0	3.0
+Eubacterium ramulus	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	424	C00137	Eubacterium ramulus	100	v12	39490	180.156	-3.834600000000001	6.0	6.0
+Eubacterium ramulus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	424	C00507	Eubacterium ramulus	100	v12	39490	164.15699999999998	-2.1938	4.0	5.0
+Eubacterium ramulus	L-Sorbose (Sorbose)	Consumption (import) (-)	424	C00247	Eubacterium ramulus	100	v12	39490	180.156	-3.2198	5.0	6.0
+Eubacterium ramulus	Trehalose	Consumption (import) (-)	424	C01083	Eubacterium ramulus	100	v12	39490	342.2970000000001	-5.397199999999993	8.0	11.0
+Filifactor alocis	Cellobiose	Consumption (import) (-)	491	C00185	Filifactor alocis	100	v12	546269	342.2970000000001	-5.397199999999993	8.0	11.0
+Filifactor alocis	Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)	Consumption (import) (-)	491	C00721	Filifactor alocis	100	v12	546269	324.28200000000004	-3.9316999999999984	6.0	10.0
+Filifactor alocis	Glycerol	Consumption (import) (-)	491	C00116	Filifactor alocis	100	v12	546269	92.094	-1.6681	3.0	3.0
+Filifactor alocis	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	491	C00137	Filifactor alocis	100	v12	546269	180.156	-3.834600000000001	6.0	6.0
+Filifactor alocis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	491	C00507	Filifactor alocis	100	v12	546269	164.15699999999998	-2.1938	4.0	5.0
+Filifactor alocis	Lactose	Consumption (import) (-)	491	C00243	Filifactor alocis	100	v12	546269	342.2970000000001	-5.397199999999993	8.0	11.0
+Filifactor alocis	Maltose	Consumption (import) (-)	491	C00208	Filifactor alocis	100	v12	546269	342.2970000000001	-5.397199999999993	8.0	11.0
+Filifactor alocis	Melibiose	Consumption (import) (-)	491	C05402	Filifactor alocis	100	v12	546269	342.297	-5.397199999999993	8.0	11.0
+Filifactor alocis	Pyruvate	Consumption (import) (-)	491	C00022	Filifactor alocis	100	v12	546269	88.062	-0.3400000000000001	1.0	2.0
+Filifactor alocis	Raffinose	Consumption (import) (-)	491	C00492	Filifactor alocis	100	v12	546269	504.43800000000016	-7.571399999999989	11.0	16.0
+Filifactor alocis	Sucrose	Consumption (import) (-)	491	C00089	Filifactor alocis	100	v12	546269	342.297	-5.395599999999992	8.0	11.0
+Filifactor alocis	Trehalose	Consumption (import) (-)	491	C01083	Filifactor alocis	100	v12	546269	342.2970000000001	-5.397199999999993	8.0	11.0
+Flavobacterium branchiophilum	D-Fructose (Fructose)	Consumption (import) (-)	493	C00095	Flavobacterium branchiophilum	100	v12	1034807	180.156	-3.2198	5.0	6.0
+Flavobacterium columnare	L-Tyrosine (Tyrosine)	Consumption (import) (-)	494	C00082	Flavobacterium columnare	100	v12	1041826	181.191	0.3465999999999998	3.0	3.0
+Flavobacterium frigoris	Citrate	Consumption (import) (-)	658	C00158	Flavobacterium frigoris	100	v12	1086011	192.123	-1.2485	4.0	4.0
+Flexithrix dorotheae	D-Mannitol (Mannitol)	Consumption (import) (-)	496	C00392	Flexithrix dorotheae	100	v12	1121904	182.17200000000005	-3.5853999999999986	6.0	6.0
+Flexithrix dorotheae	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	496	C00794	Flexithrix dorotheae	100	v12	1121904	182.17200000000005	-3.5853999999999986	6.0	6.0
+Flexithrix dorotheae	Glycerol	Consumption (import) (-)	496	C00116	Flexithrix dorotheae	100	v12	1121904	92.094	-1.6681	3.0	3.0
+Flexithrix dorotheae	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	496	C00137	Flexithrix dorotheae	100	v12	1121904	180.156	-3.834600000000001	6.0	6.0
+Gemella morbillorum	Cellobiose	Consumption (import) (-)	499	C00185	Gemella morbillorum	100	v12	562982	342.2970000000001	-5.397199999999993	8.0	11.0
+Gemella morbillorum	D-Fructose (Fructose)	Consumption (import) (-)	84, 499	C00095	Gemella morbillorum	100	v12	562982	180.156	-3.2198	5.0	6.0
+Gemella morbillorum	D-Galactose	Consumption (import) (-)	84, 499	C00124	Gemella morbillorum	100	v12	562982	180.156	-3.2214	5.0	6.0
+Gemella morbillorum	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	499	C00257	Gemella morbillorum	100	v12	562982	196.155	-3.493099999999999	6.0	6.0
+Gemella morbillorum	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	499	C00186	Gemella morbillorum	100	v12	562982	90.078	-0.5482	2.0	2.0
+Gemella morbillorum	Lactose	Consumption (import) (-)	499	C00243	Gemella morbillorum	100	v12	562982	342.2970000000001	-5.397199999999993	8.0	11.0
+Gemella morbillorum	Raffinose	Consumption (import) (-)	499	C00492	Gemella morbillorum	100	v12	562982	504.43800000000016	-7.571399999999989	11.0	16.0
+Gemella sanguinis	D-Ribose (Ribose)	Consumption (import) (-)	500	C00121	Gemella sanguinis	100	v12	84135	150.13	-2.5823	4.0	5.0
+Gemella sanguinis	D-Tagatose	Consumption (import) (-)	500	C00795	Gemella sanguinis	100	v12	84135	180.156	-3.2198	5.0	6.0
+Gemella sanguinis	Lactose	Consumption (import) (-)	500	C00243	Gemella sanguinis	100	v12	84135	342.2970000000001	-5.397199999999993	8.0	11.0
+Gemella sanguinis	Melibiose	Consumption (import) (-)	500	C05402	Gemella sanguinis	100	v12	84135	342.297	-5.397199999999993	8.0	11.0
+Gemella sanguinis	Raffinose	Consumption (import) (-)	500	C00492	Gemella sanguinis	100	v12	84135	504.43800000000016	-7.571399999999989	11.0	16.0
+Gemella sanguinis	Trehalose	Consumption (import) (-)	500	C01083	Gemella sanguinis	100	v12	84135	342.2970000000001	-5.397199999999993	8.0	11.0
+Halanaerobium praevalens	Cellobiose	Consumption (import) (-)	242	C00185	Halanaerobium praevalens	100	v12	572479	342.2970000000001	-5.397199999999993	8.0	11.0
+Halanaerobium praevalens	D-Galactose	Consumption (import) (-)	242	C00124	Halanaerobium praevalens	100	v12	572479	180.156	-3.2214	5.0	6.0
+Halanaerobium praevalens	D-Xylose (Xylose)	Consumption (import) (-)	242	C00181	Halanaerobium praevalens	100	v12	572479	150.13	-2.5823	4.0	5.0
+Halanaerobium praevalens	Glycerol	Consumption (import) (-)	242	C00116	Halanaerobium praevalens	100	v12	572479	92.094	-1.6681	3.0	3.0
+Halanaerobium praevalens	Lactose	Consumption (import) (-)	242	C00243	Halanaerobium praevalens	100	v12	572479	342.2970000000001	-5.397199999999993	8.0	11.0
+Halanaerobium praevalens	Pyruvate	Consumption (import) (-)	242	C00022	Halanaerobium praevalens	100	v12	572479	88.062	-0.3400000000000001	1.0	2.0
+Halanaerobium praevalens	Sucrose	Consumption (import) (-)	242	C00089	Halanaerobium praevalens	100	v12	572479	342.297	-5.395599999999992	8.0	11.0
+Helcococcus kunzii	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	660	C00216	Helcococcus kunzii	100	v12	883114	150.13	-2.5823	4.0	5.0
+Helcococcus kunzii	D-Ribose (Ribose)	Consumption (import) (-)	660	C00121	Helcococcus kunzii	100	v12	883114	150.13	-2.5823	4.0	5.0
+Helcococcus kunzii	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	660	C00794	Helcococcus kunzii	100	v12	883114	182.17200000000005	-3.5853999999999986	6.0	6.0
+Helcococcus kunzii	L-Arginine (Arginine)	Consumption (import) (-)	660	C00062	Helcococcus kunzii	100	v12	883114	174.204	-1.338429999999999	5.0	3.0
+Helcococcus kunzii	Raffinose	Consumption (import) (-)	660	C00492	Helcococcus kunzii	100	v12	883114	504.43800000000016	-7.571399999999989	11.0	16.0
+Holdemanella biformis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	506	C00794	Holdemanella biformis	100	v12	518637	182.17200000000005	-3.5853999999999986	6.0	6.0
+Holdemanella biformis	Erythritol	Consumption (import) (-)	506	C00503	Holdemanella biformis	100	v12	518637	122.12	-2.3071999999999995	4.0	4.0
+Holdemanella biformis	Glycerol	Consumption (import) (-)	506	C00116	Holdemanella biformis	100	v12	518637	92.094	-1.6681	3.0	3.0
+Holdemanella biformis	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	506	C00137	Holdemanella biformis	100	v12	518637	180.156	-3.834600000000001	6.0	6.0
+Holdemanella biformis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	506	C00507	Holdemanella biformis	100	v12	518637	164.15699999999998	-2.1938	4.0	5.0
+Ignavibacterium album	Fumarate	Consumption (import) (-)	507	C00122	Ignavibacterium album	100	v12	945713	116.07199999999996	-0.2881999999999998	2.0	2.0
+Ignavibacterium album	Selenite	Consumption (import) (-)	507	C05684	Ignavibacterium album	100	v12	945713	126.95699999999998	-2.8776	0.0	3.0
+Ignavibacterium album	Sulfate (Sulfuric acid, Sulfite)	Consumption (import) (-)	507	C00059	Ignavibacterium album	100	v12	945713	98.07899999999998	-0.6527999999999998	2.0	2.0
+Ignavibacterium album	Thiosulfate	Consumption (import) (-)	507	C00320	Ignavibacterium album	100	v12	945713	113.139	-0.6638999999999999	1.0	3.0
+Johnsonella ignava	Cellobiose	Consumption (import) (-)	508	C00185	Johnsonella ignava	100	v12	679200	342.2970000000001	-5.397199999999993	8.0	11.0
+Johnsonella ignava	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	508	C00216	Johnsonella ignava	100	v12	679200	150.13	-2.5823	4.0	5.0
+Johnsonella ignava	D-Fructose (Fructose)	Consumption (import) (-)	508	C00095	Johnsonella ignava	100	v12	679200	180.156	-3.2198	5.0	6.0
+Johnsonella ignava	D-Glucose (Glucose)	Consumption (import) (-)	508	C00031	Johnsonella ignava	100	v12	679200	180.156	-3.2214	5.0	6.0
+Johnsonella ignava	D-Mannitol (Mannitol)	Consumption (import) (-)	508	C00392	Johnsonella ignava	100	v12	679200	182.17200000000005	-3.5853999999999986	6.0	6.0
+Johnsonella ignava	D-Mannose (Mannose)	Consumption (import) (-)	508	C00159	Johnsonella ignava	100	v12	679200	180.156	-3.2214	5.0	6.0
+Johnsonella ignava	D-Ribose (Ribose)	Consumption (import) (-)	508	C00121	Johnsonella ignava	100	v12	679200	150.13	-2.5823	4.0	5.0
+Johnsonella ignava	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	508	C00794	Johnsonella ignava	100	v12	679200	182.17200000000005	-3.5853999999999986	6.0	6.0
+Johnsonella ignava	D-Xylose (Xylose)	Consumption (import) (-)	508	C00181	Johnsonella ignava	100	v12	679200	150.13	-2.5823	4.0	5.0
+Johnsonella ignava	Erythritol	Consumption (import) (-)	508	C00503	Johnsonella ignava	100	v12	679200	122.12	-2.3071999999999995	4.0	4.0
+Johnsonella ignava	Glycerol	Consumption (import) (-)	508	C00116	Johnsonella ignava	100	v12	679200	92.094	-1.6681	3.0	3.0
+Johnsonella ignava	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	508	C00137	Johnsonella ignava	100	v12	679200	180.156	-3.834600000000001	6.0	6.0
+Johnsonella ignava	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	508	C00507	Johnsonella ignava	100	v12	679200	164.15699999999998	-2.1938	4.0	5.0
+Johnsonella ignava	Lactose	Consumption (import) (-)	508	C00243	Johnsonella ignava	100	v12	679200	342.2970000000001	-5.397199999999993	8.0	11.0
+Johnsonella ignava	Maltose	Consumption (import) (-)	508	C00208	Johnsonella ignava	100	v12	679200	342.2970000000001	-5.397199999999993	8.0	11.0
+Johnsonella ignava	Melibiose	Consumption (import) (-)	508	C05402	Johnsonella ignava	100	v12	679200	342.297	-5.397199999999993	8.0	11.0
+Johnsonella ignava	Raffinose	Consumption (import) (-)	508	C00492	Johnsonella ignava	100	v12	679200	504.43800000000016	-7.571399999999989	11.0	16.0
+Johnsonella ignava	Sucrose	Consumption (import) (-)	508	C00089	Johnsonella ignava	100	v12	679200	342.297	-5.395599999999992	8.0	11.0
+Johnsonella ignava	Trehalose	Consumption (import) (-)	508	C01083	Johnsonella ignava	100	v12	679200	342.2970000000001	-5.397199999999993	8.0	11.0
+Lachnobacterium bovis	L-Arginine (Arginine)	Consumption (import) (-)	509	C00062	Lachnobacterium bovis	100	v12	1122142	174.204	-1.338429999999999	5.0	3.0
+Lactobacillus ingluviei	Cellobiose	Consumption (import) (-)	730	C00185	Lactobacillus ingluviei	100	v12	1203076	342.2970000000001	-5.397199999999993	8.0	11.0
+Lactobacillus ingluviei	D-Galactose	Consumption (import) (-)	726, 730	C00124	Lactobacillus ingluviei	100	v12	1203076	180.156	-3.2214	5.0	6.0
+Lactobacillus ingluviei	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	726	C00257	Lactobacillus ingluviei	100	v12	1203076	196.155	-3.493099999999999	6.0	6.0
+Lactobacillus ingluviei	D-Mannitol (Mannitol)	Consumption (import) (-)	730	C00392	Lactobacillus ingluviei	100	v12	1203076	182.17200000000005	-3.5853999999999986	6.0	6.0
+Lactobacillus ingluviei	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	730	C00794	Lactobacillus ingluviei	100	v12	1203076	182.17200000000005	-3.5853999999999986	6.0	6.0
+Lactobacillus ingluviei	Erythritol	Consumption (import) (-)	726, 730	C00503	Lactobacillus ingluviei	100	v12	1203076	122.12	-2.3071999999999995	4.0	4.0
+Lactobacillus ingluviei	Glycerol	Consumption (import) (-)	726, 730	C00116	Lactobacillus ingluviei	100	v12	1203076	92.094	-1.6681	3.0	3.0
+Lactobacillus ingluviei	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	726, 730	C00137	Lactobacillus ingluviei	100	v12	1203076	180.156	-3.834600000000001	6.0	6.0
+Lactobacillus ingluviei	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	730	C00507	Lactobacillus ingluviei	100	v12	1203076	164.15699999999998	-2.1938	4.0	5.0
+Lactobacillus ingluviei	Lactose	Consumption (import) (-)	726, 730	C00243	Lactobacillus ingluviei	100	v12	1203076	342.2970000000001	-5.397199999999993	8.0	11.0
+Lactobacillus ingluviei	Melibiose	Consumption (import) (-)	730	C05402	Lactobacillus ingluviei	100	v12	1203076	342.297	-5.397199999999993	8.0	11.0
+Lactobacillus ingluviei	Trehalose	Consumption (import) (-)	730	C01083	Lactobacillus ingluviei	100	v12	1203076	342.2970000000001	-5.397199999999993	8.0	11.0
+Lactobacillus ingluviei	Xylitol	Consumption (import) (-)	726, 730	C00379	Lactobacillus ingluviei	100	v12	1203076	152.14600000000002	-2.9462999999999995	5.0	5.0
+Leptotrichia shahii	D-Mannose (Mannose)	Consumption (import) (-)	315	C00159	Leptotrichia shahii	100	v12	1122172	180.156	-3.2214	5.0	6.0
+Leptotrichia shahii	Raffinose	Consumption (import) (-)	315	C00492	Leptotrichia shahii	100	v12	1122172	504.43800000000016	-7.571399999999989	11.0	16.0
+Leptotrichia wadei	D-Mannose (Mannose)	Consumption (import) (-)	315	C00159	Leptotrichia wadei	100	v12	157687	180.156	-3.2214	5.0	6.0
+Leptotrichia wadei	Raffinose	Consumption (import) (-)	315	C00492	Leptotrichia wadei	100	v12	157687	504.43800000000016	-7.571399999999989	11.0	16.0
+Megamonas funiformis	Cellobiose	Consumption (import) (-)	320	C00185	Megamonas funiformis	100	v12	437897	342.2970000000001	-5.397199999999993	8.0	11.0
+Megamonas funiformis	Glycerol	Consumption (import) (-)	320	C00116	Megamonas funiformis	100	v12	437897	92.094	-1.6681	3.0	3.0
+Mycoplasma alkalescens	D-Glucose (Glucose)	Consumption (import) (-)	527	C00031	Mycoplasma alkalescens	100	v12	1188234	180.156	-3.2214	5.0	6.0
+Mycoplasma alkalescens	Urea	Consumption (import) (-)	527	C00086	Mycoplasma alkalescens	100	v12	1188234	60.056	-0.9762000000000002	2.0	1.0
+Mycoplasma arginini	D-Glucose (Glucose)	Consumption (import) (-)	528	C00031	Mycoplasma arginini	100	v12	2094	180.156	-3.2214	5.0	6.0
+Mycoplasma auris	D-Glucose (Glucose)	Consumption (import) (-)	529	C00031	Mycoplasma auris	100	v12	1188233	180.156	-3.2214	5.0	6.0
+Mycoplasma auris	D-Mannose (Mannose)	Consumption (import) (-)	529	C00159	Mycoplasma auris	100	v12	1188233	180.156	-3.2214	5.0	6.0
+Mycoplasma auris	Urea	Consumption (import) (-)	529	C00086	Mycoplasma auris	100	v12	1188233	60.056	-0.9762000000000002	2.0	1.0
+Mycoplasma columbinum	D-Glucose (Glucose)	Consumption (import) (-)	530	C00031	Mycoplasma columbinum	100	v12	1037410	180.156	-3.2214	5.0	6.0
+Mycoplasma columbinum	Urea	Consumption (import) (-)	530	C00086	Mycoplasma columbinum	100	v12	1037410	60.056	-0.9762000000000002	2.0	1.0
+Mycoplasma cynos	L-Arginine (Arginine)	Consumption (import) (-)	531	C00062	Mycoplasma cynos	100	v12	1246955	174.204	-1.338429999999999	5.0	3.0
+Mycoplasma cynos	Urea	Consumption (import) (-)	531	C00086	Mycoplasma cynos	100	v12	1246955	60.056	-0.9762000000000002	2.0	1.0
+Mycoplasma iowae	Urea	Consumption (import) (-)	532	C00086	Mycoplasma iowae	100	v12	1048830	60.056	-0.9762000000000002	2.0	1.0
+Mycoplasma yeatsii	Urea	Consumption (import) (-)	529	C00086	Mycoplasma yeatsii	100	v12	743967	60.056	-0.9762000000000002	2.0	1.0
+Odoribacter splanchnicus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	338	C00507	Odoribacter splanchnicus	100	v12	709991	164.15699999999998	-2.1938	4.0	5.0
+Odoribacter splanchnicus	Sucrose	Consumption (import) (-)	338	C00089	Odoribacter splanchnicus	100	v12	709991	342.297	-5.395599999999992	8.0	11.0
+Odoribacter splanchnicus	Trehalose	Consumption (import) (-)	338	C01083	Odoribacter splanchnicus	100	v12	709991	342.2970000000001	-5.397199999999993	8.0	11.0
+Oscillibacter valericigenes	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	540	C00257	Oscillibacter valericigenes	100	v12	693746	196.155	-3.493099999999999	6.0	6.0
+Oscillibacter valericigenes	Lactose	Consumption (import) (-)	540	C00243	Oscillibacter valericigenes	100	v12	693746	342.2970000000001	-5.397199999999993	8.0	11.0
+Oscillibacter valericigenes	Maltose	Consumption (import) (-)	540	C00208	Oscillibacter valericigenes	100	v12	693746	342.2970000000001	-5.397199999999993	8.0	11.0
+Oscillibacter valericigenes	Sucrose	Consumption (import) (-)	540	C00089	Oscillibacter valericigenes	100	v12	693746	342.297	-5.395599999999992	8.0	11.0
+Oscillibacter valericigenes	Trehalose	Consumption (import) (-)	540	C01083	Oscillibacter valericigenes	100	v12	693746	342.2970000000001	-5.397199999999993	8.0	11.0
+Parabacteroides distasonis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	340	C00216	Parabacteroides distasonis	100	v12	435591	150.13	-2.5823	4.0	5.0
+Parabacteroides distasonis	D-Mannitol (Mannitol)	Consumption (import) (-)	340	C00392	Parabacteroides distasonis	100	v12	435591	182.17200000000005	-3.5853999999999986	6.0	6.0
+Parabacteroides distasonis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	340	C00794	Parabacteroides distasonis	100	v12	435591	182.17200000000005	-3.5853999999999986	6.0	6.0
+Parabacteroides distasonis	Glycerol	Consumption (import) (-)	340	C00116	Parabacteroides distasonis	100	v12	435591	92.094	-1.6681	3.0	3.0
+Parabacteroides goldsteinii	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	340	C00216	Parabacteroides goldsteinii	100	v12	927665	150.13	-2.5823	4.0	5.0
+Parabacteroides johnsonii	Cellobiose	Consumption (import) (-)	342	C00185	Parabacteroides johnsonii	100	v12	537006	342.2970000000001	-5.397199999999993	8.0	11.0
+Parabacteroides johnsonii	D-Mannitol (Mannitol)	Consumption (import) (-)	342	C00392	Parabacteroides johnsonii	100	v12	537006	182.17200000000005	-3.5853999999999986	6.0	6.0
+Parabacteroides johnsonii	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	342	C00794	Parabacteroides johnsonii	100	v12	537006	182.17200000000005	-3.5853999999999986	6.0	6.0
+Parabacteroides johnsonii	Glycerol	Consumption (import) (-)	342	C00116	Parabacteroides johnsonii	100	v12	537006	92.094	-1.6681	3.0	3.0
+Parabacteroides merdae	Cellobiose	Consumption (import) (-)	340	C00185	Parabacteroides merdae	100	v12	46503	342.2970000000001	-5.397199999999993	8.0	11.0
+Parabacteroides merdae	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	340	C00216	Parabacteroides merdae	100	v12	46503	150.13	-2.5823	4.0	5.0
+Parabacteroides merdae	D-Mannitol (Mannitol)	Consumption (import) (-)	340	C00392	Parabacteroides merdae	100	v12	46503	182.17200000000005	-3.5853999999999986	6.0	6.0
+Parabacteroides merdae	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	340	C00794	Parabacteroides merdae	100	v12	46503	182.17200000000005	-3.5853999999999986	6.0	6.0
+Parabacteroides merdae	Glycerol	Consumption (import) (-)	340	C00116	Parabacteroides merdae	100	v12	46503	92.094	-1.6681	3.0	3.0
+Parabacteroides merdae	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	340	C00507	Parabacteroides merdae	100	v12	46503	164.15699999999998	-2.1938	4.0	5.0
+Paraclostridium bifermentans	Benzoate	Consumption (import) (-)	457	C00180	Paraclostridium bifermentans	100	v12	1490	122.12299999999998	1.3848	1.0	1.0
+Paraclostridium bifermentans	Cellobiose	Consumption (import) (-)	457	C00185	Paraclostridium bifermentans	100	v12	1490	342.2970000000001	-5.397199999999993	8.0	11.0
+Paraclostridium bifermentans	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	457	C00216	Paraclostridium bifermentans	100	v12	1490	150.13	-2.5823	4.0	5.0
+Paraclostridium bifermentans	D-Galactose	Consumption (import) (-)	457	C00124	Paraclostridium bifermentans	100	v12	1490	180.156	-3.2214	5.0	6.0
+Paraclostridium bifermentans	D-Mannitol (Mannitol)	Consumption (import) (-)	457	C00392	Paraclostridium bifermentans	100	v12	1490	182.17200000000005	-3.5853999999999986	6.0	6.0
+Paraclostridium bifermentans	D-Xylose (Xylose)	Consumption (import) (-)	457	C00181	Paraclostridium bifermentans	100	v12	1490	150.13	-2.5823	4.0	5.0
+Paraclostridium bifermentans	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	457	C00137	Paraclostridium bifermentans	100	v12	1490	180.156	-3.834600000000001	6.0	6.0
+Paraclostridium bifermentans	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	457	C00507	Paraclostridium bifermentans	100	v12	1490	164.15699999999998	-2.1938	4.0	5.0
+Paraclostridium bifermentans	Lactose	Consumption (import) (-)	457	C00243	Paraclostridium bifermentans	100	v12	1490	342.2970000000001	-5.397199999999993	8.0	11.0
+Paraclostridium bifermentans	Melibiose	Consumption (import) (-)	457	C05402	Paraclostridium bifermentans	100	v12	1490	342.297	-5.397199999999993	8.0	11.0
+Paraclostridium bifermentans	Raffinose	Consumption (import) (-)	457	C00492	Paraclostridium bifermentans	100	v12	1490	504.43800000000016	-7.571399999999989	11.0	16.0
+Paraclostridium bifermentans	Sucrose	Consumption (import) (-)	457	C00089	Paraclostridium bifermentans	100	v12	1490	342.297	-5.395599999999992	8.0	11.0
+Paraclostridium bifermentans	Trehalose	Consumption (import) (-)	457	C01083	Paraclostridium bifermentans	100	v12	1490	342.2970000000001	-5.397199999999993	8.0	11.0
+Parvularcula bermudensis	Citrate	Consumption (import) (-)	744	C00158	Parvularcula bermudensis	100	v12	314260	192.123	-1.2485	4.0	4.0
+Parvularcula bermudensis	D-Fructose (Fructose)	Consumption (import) (-)	744	C00095	Parvularcula bermudensis	100	v12	314260	180.156	-3.2198	5.0	6.0
+Parvularcula bermudensis	D-Galactose	Consumption (import) (-)	744	C00124	Parvularcula bermudensis	100	v12	314260	180.156	-3.2214	5.0	6.0
+Parvularcula bermudensis	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	744	C00257	Parvularcula bermudensis	100	v12	314260	196.155	-3.493099999999999	6.0	6.0
+Parvularcula bermudensis	D-Glucosamine (Glucosamine)	Consumption (import) (-)	744	C00329	Parvularcula bermudensis	100	v12	314260	179.172	-3.255	5.0	6.0
+Parvularcula bermudensis	D-Ribose (Ribose)	Consumption (import) (-)	744	C00121	Parvularcula bermudensis	100	v12	314260	150.13	-2.5823	4.0	5.0
+Parvularcula bermudensis	D-Xylose (Xylose)	Consumption (import) (-)	744	C00181	Parvularcula bermudensis	100	v12	314260	150.13	-2.5823	4.0	5.0
+Parvularcula bermudensis	Glycerol	Consumption (import) (-)	744	C00116	Parvularcula bermudensis	100	v12	314260	92.094	-1.6681	3.0	3.0
+Parvularcula bermudensis	L-Alanine (D-Alanine, Alanine)	Consumption (import) (-)	744	C00041	Parvularcula bermudensis	100	v12	314260	89.09400000000001	-0.5817999999999999	2.0	2.0
+Parvularcula bermudensis	L-Arginine (Arginine)	Consumption (import) (-)	744	C00062	Parvularcula bermudensis	100	v12	314260	174.204	-1.338429999999999	5.0	3.0
+Parvularcula bermudensis	L-Glycine (Glycine)	Consumption (import) (-)	744	C00037	Parvularcula bermudensis	100	v12	314260	75.06700000000001	-0.9703	2.0	2.0
+Parvularcula bermudensis	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	744	C00186	Parvularcula bermudensis	100	v12	314260	90.078	-0.5482	2.0	2.0
+Parvularcula bermudensis	L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)	Consumption (import) (-)	744	C00149	Parvularcula bermudensis	100	v12	314260	134.087	-1.0934	3.0	3.0
+Parvularcula bermudensis	L-Ornithine (Ornithine)	Consumption (import) (-)	744	C00077	Parvularcula bermudensis	100	v12	314260	132.16299999999998	-0.8627999999999991	3.0	3.0
+Parvularcula bermudensis	L-Proline (Proline, D-Proline)	Consumption (import) (-)	744	C00148	Parvularcula bermudensis	100	v12	314260	115.13199999999998	-0.1769999999999998	2.0	2.0
+Parvularcula bermudensis	L-Sorbose (Sorbose)	Consumption (import) (-)	744	C00247	Parvularcula bermudensis	100	v12	314260	180.156	-3.2198	5.0	6.0
+Parvularcula bermudensis	Lactose	Consumption (import) (-)	744	C00243	Parvularcula bermudensis	100	v12	314260	342.2970000000001	-5.397199999999993	8.0	11.0
+Parvularcula bermudensis	Melibiose	Consumption (import) (-)	744	C05402	Parvularcula bermudensis	100	v12	314260	342.297	-5.397199999999993	8.0	11.0
+Parvularcula bermudensis	N-Acetyl-D-Glucosamine (N-Acetylglucosamine)	Consumption (import) (-)	744	C00140	Parvularcula bermudensis	100	v12	314260	221.209	-3.0775999999999994	5.0	6.0
+Parvularcula bermudensis	Propanoate (Propionate)	Consumption (import) (-)	744	C00163	Parvularcula bermudensis	100	v12	314260	74.07900000000001	0.4809999999999999	1.0	1.0
+Parvularcula bermudensis	Pyruvate	Consumption (import) (-)	744	C00022	Parvularcula bermudensis	100	v12	314260	88.062	-0.3400000000000001	1.0	2.0
+Parvularcula bermudensis	Raffinose	Consumption (import) (-)	744	C00492	Parvularcula bermudensis	100	v12	314260	504.43800000000016	-7.571399999999989	11.0	16.0
+Parvularcula bermudensis	Ribitol (Adonitol)	Consumption (import) (-)	744	C00474	Parvularcula bermudensis	100	v12	314260	152.14600000000002	-2.9462999999999995	5.0	5.0
+Parvularcula bermudensis	Succinate	Consumption (import) (-)	744	C00042	Parvularcula bermudensis	100	v12	314260	118.08799999999998	-0.0642	2.0	2.0
+Parvularcula bermudensis	Trehalose	Consumption (import) (-)	744	C01083	Parvularcula bermudensis	100	v12	314260	342.2970000000001	-5.397199999999993	8.0	11.0
+Peptoniphilus indolicus	D-Fructose (Fructose)	Consumption (import) (-)	541	C00095	Peptoniphilus indolicus	100	v12	997350	180.156	-3.2198	5.0	6.0
+Peptoniphilus indolicus	D-Glucose (Glucose)	Consumption (import) (-)	541	C00031	Peptoniphilus indolicus	100	v12	997350	180.156	-3.2214	5.0	6.0
+Peptoniphilus indolicus	D-Mannose (Mannose)	Consumption (import) (-)	541	C00159	Peptoniphilus indolicus	100	v12	997350	180.156	-3.2214	5.0	6.0
+Peptoniphilus indolicus	Maltose	Consumption (import) (-)	541	C00208	Peptoniphilus indolicus	100	v12	997350	342.2970000000001	-5.397199999999993	8.0	11.0
+Peptoniphilus indolicus	Sucrose	Consumption (import) (-)	541	C00089	Peptoniphilus indolicus	100	v12	997350	342.297	-5.395599999999992	8.0	11.0
+Proteiniphilum acetatigenes	Cellobiose	Consumption (import) (-)	549	C00185	Proteiniphilum acetatigenes	100	v12	1123008	342.2970000000001	-5.397199999999993	8.0	11.0
+Proteiniphilum acetatigenes	Citrate	Consumption (import) (-)	549	C00158	Proteiniphilum acetatigenes	100	v12	1123008	192.123	-1.2485	4.0	4.0
+Proteiniphilum acetatigenes	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	549	C00257	Proteiniphilum acetatigenes	100	v12	1123008	196.155	-3.493099999999999	6.0	6.0
+Proteiniphilum acetatigenes	D-Mannitol (Mannitol)	Consumption (import) (-)	549	C00392	Proteiniphilum acetatigenes	100	v12	1123008	182.17200000000005	-3.5853999999999986	6.0	6.0
+Proteiniphilum acetatigenes	D-Mannose (Mannose)	Consumption (import) (-)	549	C00159	Proteiniphilum acetatigenes	100	v12	1123008	180.156	-3.2214	5.0	6.0
+Proteiniphilum acetatigenes	D-Ribose (Ribose)	Consumption (import) (-)	549	C00121	Proteiniphilum acetatigenes	100	v12	1123008	150.13	-2.5823	4.0	5.0
+Proteiniphilum acetatigenes	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	549	C00794	Proteiniphilum acetatigenes	100	v12	1123008	182.17200000000005	-3.5853999999999986	6.0	6.0
+Proteiniphilum acetatigenes	Erythritol	Consumption (import) (-)	549	C00503	Proteiniphilum acetatigenes	100	v12	1123008	122.12	-2.3071999999999995	4.0	4.0
+Proteiniphilum acetatigenes	Fumarate	Consumption (import) (-)	549	C00122	Proteiniphilum acetatigenes	100	v12	1123008	116.07199999999996	-0.2881999999999998	2.0	2.0
+Proteiniphilum acetatigenes	Hippurate	Consumption (import) (-)	549	C01586	Proteiniphilum acetatigenes	100	v12	1123008	179.17499999999998	0.5009999999999999	2.0	2.0
+Proteiniphilum acetatigenes	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	549	C00137	Proteiniphilum acetatigenes	100	v12	1123008	180.156	-3.834600000000001	6.0	6.0
+Proteiniphilum acetatigenes	L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)	Consumption (import) (-)	549	C00149	Proteiniphilum acetatigenes	100	v12	1123008	134.087	-1.0934	3.0	3.0
+Proteiniphilum acetatigenes	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	549	C00507	Proteiniphilum acetatigenes	100	v12	1123008	164.15699999999998	-2.1938	4.0	5.0
+Proteiniphilum acetatigenes	L-Sorbose (Sorbose)	Consumption (import) (-)	549	C00247	Proteiniphilum acetatigenes	100	v12	1123008	180.156	-3.2198	5.0	6.0
+Proteiniphilum acetatigenes	L-Tryptophan (Tryptophan)	Consumption (import) (-)	549	C00078	Proteiniphilum acetatigenes	100	v12	1123008	204.229	1.1223	3.0	2.0
+Proteiniphilum acetatigenes	Malonate	Consumption (import) (-)	549	C00383	Proteiniphilum acetatigenes	100	v12	1123008	104.06099999999998	-0.4543	2.0	2.0
+Proteiniphilum acetatigenes	Melibiose	Consumption (import) (-)	549	C05402	Proteiniphilum acetatigenes	100	v12	1123008	342.297	-5.397199999999993	8.0	11.0
+Proteiniphilum acetatigenes	Phenylacetate	Consumption (import) (-)	549	C07086	Proteiniphilum acetatigenes	100	v12	1123008	136.14999999999998	1.3137	1.0	1.0
+Proteiniphilum acetatigenes	Raffinose	Consumption (import) (-)	549	C00492	Proteiniphilum acetatigenes	100	v12	1123008	504.43800000000016	-7.571399999999989	11.0	16.0
+Proteiniphilum acetatigenes	Ribitol (Adonitol)	Consumption (import) (-)	549	C00474	Proteiniphilum acetatigenes	100	v12	1123008	152.14600000000002	-2.9462999999999995	5.0	5.0
+Proteiniphilum acetatigenes	Succinate	Consumption (import) (-)	549	C00042	Proteiniphilum acetatigenes	100	v12	1123008	118.08799999999998	-0.0642	2.0	2.0
+Proteiniphilum acetatigenes	Sucrose	Consumption (import) (-)	549	C00089	Proteiniphilum acetatigenes	100	v12	1123008	342.297	-5.395599999999992	8.0	11.0
+Proteiniphilum acetatigenes	Trehalose	Consumption (import) (-)	549	C01083	Proteiniphilum acetatigenes	100	v12	1123008	342.2970000000001	-5.397199999999993	8.0	11.0
+Pseudodesulfovibrio piezophilus	Acetate	Consumption (import) (-)	755	C00033	Pseudodesulfovibrio piezophilus	100	v12	1322246	60.05200000000001	0.0908999999999999	1.0	1.0
+Pseudodesulfovibrio piezophilus	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	755	C00186	Pseudodesulfovibrio piezophilus	100	v12	1322246	90.078	-0.5482	2.0	2.0
+Psychroflexus gondwanensis	D-Galactose	Consumption (import) (-)	550	C00124	Psychroflexus gondwanensis	100	v12	1189619	180.156	-3.2214	5.0	6.0
+Roseburia hominis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	551	C00794	Roseburia hominis	100	v12	585394	182.17200000000005	-3.5853999999999986	6.0	6.0
+Roseburia hominis	Sucrose	Consumption (import) (-)	551	C00089	Roseburia hominis	100	v12	585394	342.297	-5.395599999999992	8.0	11.0
+Roseburia intestinalis	D-Mannitol (Mannitol)	Consumption (import) (-)	258	C00392	Roseburia intestinalis	100	v12	166486	182.17200000000005	-3.5853999999999986	6.0	6.0
+Roseburia intestinalis	D-Ribose (Ribose)	Consumption (import) (-)	258	C00121	Roseburia intestinalis	100	v12	166486	150.13	-2.5823	4.0	5.0
+Roseburia intestinalis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	258	C00507	Roseburia intestinalis	100	v12	166486	164.15699999999998	-2.1938	4.0	5.0
+Roseburia intestinalis	Trehalose	Consumption (import) (-)	258	C01083	Roseburia intestinalis	100	v12	166486	342.2970000000001	-5.397199999999993	8.0	11.0
+Ruminiclostridium cellobioparum	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	469	C00216	Ruminiclostridium cellobioparum	100	v12	1195236	150.13	-2.5823	4.0	5.0
+Ruminiclostridium cellobioparum	Galactitol (Dulcitol)	Consumption (import) (-)	469	C01697	Ruminiclostridium cellobioparum	100	v12	1195236	182.17200000000005	-3.5853999999999986	6.0	6.0
+Ruminiclostridium cellobioparum	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	469	C00507	Ruminiclostridium cellobioparum	100	v12	1195236	164.15699999999998	-2.1938	4.0	5.0
+Ruminiclostridium cellobioparum	Raffinose	Consumption (import) (-)	469	C00492	Ruminiclostridium cellobioparum	100	v12	1195236	504.43800000000016	-7.571399999999989	11.0	16.0
+Ruminiclostridium cellobioparum	Ribitol (Adonitol)	Consumption (import) (-)	469	C00474	Ruminiclostridium cellobioparum	100	v12	1195236	152.14600000000002	-2.9462999999999995	5.0	5.0
+Ruminiclostridium cellobioparum	Sucrose	Consumption (import) (-)	469	C00089	Ruminiclostridium cellobioparum	100	v12	1195236	342.297	-5.395599999999992	8.0	11.0
+Ruminiclostridium cellobioparum	Trehalose	Consumption (import) (-)	469	C01083	Ruminiclostridium cellobioparum	100	v12	1195236	342.2970000000001	-5.397199999999993	8.0	11.0
+Ruminococcus flavefaciens	D-Glucose (Glucose)	Consumption (import) (-)	723	C00031	Ruminococcus flavefaciens	100	v12	1265	180.156	-3.2214	5.0	6.0
+Sphaerobacter thermophilus	D-Galactose	Consumption (import) (-)	750	C00124	Sphaerobacter thermophilus	100	v12	479434	180.156	-3.2214	5.0	6.0
+Sphaerobacter thermophilus	D-Mannose (Mannose)	Consumption (import) (-)	750	C00159	Sphaerobacter thermophilus	100	v12	479434	180.156	-3.2214	5.0	6.0
+Sphaerobacter thermophilus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	750	C00794	Sphaerobacter thermophilus	100	v12	479434	182.17200000000005	-3.5853999999999986	6.0	6.0
+Sphaerobacter thermophilus	D-Xylose (Xylose)	Consumption (import) (-)	750	C00181	Sphaerobacter thermophilus	100	v12	479434	150.13	-2.5823	4.0	5.0
+Sphaerobacter thermophilus	Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)	Consumption (import) (-)	750	C00721	Sphaerobacter thermophilus	100	v12	479434	324.28200000000004	-3.9316999999999984	6.0	10.0
+Sphaerobacter thermophilus	Maltose	Consumption (import) (-)	750	C00208	Sphaerobacter thermophilus	100	v12	479434	342.2970000000001	-5.397199999999993	8.0	11.0
+Sphaerobacter thermophilus	Raffinose	Consumption (import) (-)	750	C00492	Sphaerobacter thermophilus	100	v12	479434	504.43800000000016	-7.571399999999989	11.0	16.0
+Sphaerobacter thermophilus	Sucrose	Consumption (import) (-)	750	C00089	Sphaerobacter thermophilus	100	v12	479434	342.297	-5.395599999999992	8.0	11.0
+Sphaerobacter thermophilus	Trehalose	Consumption (import) (-)	750	C01083	Sphaerobacter thermophilus	100	v12	479434	342.2970000000001	-5.397199999999993	8.0	11.0
+Spiroplasma chrysopicola	Urea	Consumption (import) (-)	556	C00086	Spiroplasma chrysopicola	100	v12	1276227	60.056	-0.9762000000000002	2.0	1.0
+Spiroplasma diminutum	L-Arginine (Arginine)	Consumption (import) (-)	557	C00062	Spiroplasma diminutum	100	v12	1276221	174.204	-1.338429999999999	5.0	3.0
+Spiroplasma diminutum	Urea	Consumption (import) (-)	557	C00086	Spiroplasma diminutum	100	v12	1276221	60.056	-0.9762000000000002	2.0	1.0
+Spiroplasma syrphidicola	Urea	Consumption (import) (-)	559	C00086	Spiroplasma syrphidicola	100	v12	1276229	60.056	-0.9762000000000002	2.0	1.0
+Spiroplasma taiwanense	L-Arginine (Arginine)	Consumption (import) (-)	560	C00062	Spiroplasma taiwanense	100	v12	1276220	174.204	-1.338429999999999	5.0	3.0
+Spiroplasma taiwanense	Urea	Consumption (import) (-)	560	C00086	Spiroplasma taiwanense	100	v12	1276220	60.056	-0.9762000000000002	2.0	1.0
+Staphylococcus lentus	D-Tagatose	Consumption (import) (-)	733	C00795	Staphylococcus lentus	100	v12	42858	180.156	-3.2198	5.0	6.0
+Staphylococcus lentus	Xylitol	Consumption (import) (-)	733	C00379	Staphylococcus lentus	100	v12	42858	152.14600000000002	-2.9462999999999995	5.0	5.0
+Staphylococcus pasteuri	Xylitol	Consumption (import) (-)	561	C00379	Staphylococcus pasteuri	100	v12	45972	152.14600000000002	-2.9462999999999995	5.0	5.0
+Streptococcus constellatus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	562	C00216	Streptococcus constellatus	100	v12	862969	150.13	-2.5823	4.0	5.0
+Streptococcus constellatus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	562	C00794	Streptococcus constellatus	100	v12	862969	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus constellatus	Glycerol	Consumption (import) (-)	562	C00116	Streptococcus constellatus	100	v12	862969	92.094	-1.6681	3.0	3.0
+Streptococcus constellatus	Hippurate	Consumption (import) (-)	562	C01586	Streptococcus constellatus	100	v12	862969	179.17499999999998	0.5009999999999999	2.0	2.0
+Streptococcus constellatus	Urea	Consumption (import) (-)	562	C00086	Streptococcus constellatus	100	v12	862969	60.056	-0.9762000000000002	2.0	1.0
+Streptococcus cristatus	Cellobiose	Consumption (import) (-)	724	C00185	Streptococcus cristatus	100	v12	45634	342.2970000000001	-5.397199999999993	8.0	11.0
+Streptococcus cristatus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	724	C00216	Streptococcus cristatus	100	v12	45634	150.13	-2.5823	4.0	5.0
+Streptococcus cristatus	D-Mannitol (Mannitol)	Consumption (import) (-)	724	C00392	Streptococcus cristatus	100	v12	45634	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus cristatus	D-Ribose (Ribose)	Consumption (import) (-)	724	C00121	Streptococcus cristatus	100	v12	45634	150.13	-2.5823	4.0	5.0
+Streptococcus cristatus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	724	C00794	Streptococcus cristatus	100	v12	45634	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus cristatus	L-Arginine (Arginine)	Consumption (import) (-)	724	C00062	Streptococcus cristatus	100	v12	45634	174.204	-1.338429999999999	5.0	3.0
+Streptococcus cristatus	Melibiose	Consumption (import) (-)	724	C05402	Streptococcus cristatus	100	v12	45634	342.297	-5.397199999999993	8.0	11.0
+Streptococcus intermedius	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	562	C00216	Streptococcus intermedius	100	v12	1338	150.13	-2.5823	4.0	5.0
+Streptococcus intermedius	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	562	C00794	Streptococcus intermedius	100	v12	1338	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus intermedius	Glycerol	Consumption (import) (-)	562	C00116	Streptococcus intermedius	100	v12	1338	92.094	-1.6681	3.0	3.0
+Streptococcus intermedius	Hippurate	Consumption (import) (-)	562	C01586	Streptococcus intermedius	100	v12	1338	179.17499999999998	0.5009999999999999	2.0	2.0
+Streptococcus intermedius	Urea	Consumption (import) (-)	562	C00086	Streptococcus intermedius	100	v12	1338	60.056	-0.9762000000000002	2.0	1.0
+Streptococcus oralis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	565	C00216	Streptococcus oralis	100	v12	1303	150.13	-2.5823	4.0	5.0
+Streptococcus oralis	Hippurate	Consumption (import) (-)	565	C01586	Streptococcus oralis	100	v12	1303	179.17499999999998	0.5009999999999999	2.0	2.0
+Streptococcus oralis	L-Arabitol (L-Arabinitol, D-Arabitol)	Consumption (import) (-)	565	C00532	Streptococcus oralis	100	v12	1303	152.14600000000002	-2.9462999999999995	5.0	5.0
+Streptococcus oralis	Melibiose	Consumption (import) (-)	565	C05402	Streptococcus oralis	100	v12	1303	342.297	-5.397199999999993	8.0	11.0
+Streptococcus pasteurianus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	563	C00216	Streptococcus pasteurianus	100	v12	981540	150.13	-2.5823	4.0	5.0
+Streptococcus pasteurianus	D-Mannitol (Mannitol)	Consumption (import) (-)	564	C00392	Streptococcus pasteurianus	100	v12	981540	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus pasteurianus	D-Ribose (Ribose)	Consumption (import) (-)	563	C00121	Streptococcus pasteurianus	100	v12	981540	150.13	-2.5823	4.0	5.0
+Streptococcus pasteurianus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	563	C00794	Streptococcus pasteurianus	100	v12	981540	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus pasteurianus	Hippurate	Consumption (import) (-)	563	C01586	Streptococcus pasteurianus	100	v12	981540	179.17499999999998	0.5009999999999999	2.0	2.0
+Streptococcus pasteurianus	L-Arabitol (L-Arabinitol, D-Arabitol)	Consumption (import) (-)	563	C00532	Streptococcus pasteurianus	100	v12	981540	152.14600000000002	-2.9462999999999995	5.0	5.0
+Streptococcus pasteurianus	Urea	Consumption (import) (-)	563	C00086	Streptococcus pasteurianus	100	v12	981540	60.056	-0.9762000000000002	2.0	1.0
+Streptococcus urinalis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	728	C00216	Streptococcus urinalis	100	v12	764291	150.13	-2.5823	4.0	5.0
+Streptococcus urinalis	D-Mannitol (Mannitol)	Consumption (import) (-)	728	C00392	Streptococcus urinalis	100	v12	764291	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus urinalis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	728	C00794	Streptococcus urinalis	100	v12	764291	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus urinalis	D-Tagatose	Consumption (import) (-)	728	C00795	Streptococcus urinalis	100	v12	764291	180.156	-3.2198	5.0	6.0
+Streptococcus urinalis	Glycerol	Consumption (import) (-)	728	C00116	Streptococcus urinalis	100	v12	764291	92.094	-1.6681	3.0	3.0
+Streptococcus urinalis	L-Sorbose (Sorbose)	Consumption (import) (-)	728	C00247	Streptococcus urinalis	100	v12	764291	180.156	-3.2198	5.0	6.0
+Streptococcus urinalis	Lactose	Consumption (import) (-)	728	C00243	Streptococcus urinalis	100	v12	764291	342.2970000000001	-5.397199999999993	8.0	11.0
+Streptococcus urinalis	Melibiose	Consumption (import) (-)	728	C05402	Streptococcus urinalis	100	v12	764291	342.297	-5.397199999999993	8.0	11.0
+Streptococcus urinalis	Pyruvate	Consumption (import) (-)	728	C00022	Streptococcus urinalis	100	v12	764291	88.062	-0.3400000000000001	1.0	2.0
+Streptococcus urinalis	Raffinose	Consumption (import) (-)	728	C00492	Streptococcus urinalis	100	v12	764291	504.43800000000016	-7.571399999999989	11.0	16.0
+Succinispira mobilis	Urea	Consumption (import) (-)	566	C00086	Succinispira mobilis	100	v12	1069080	60.056	-0.9762000000000002	2.0	1.0
+Terrisporobacter glycolicus	Cellobiose	Consumption (import) (-)	567	C00185	Terrisporobacter glycolicus	100	v12	36841	342.2970000000001	-5.397199999999993	8.0	11.0
+Terrisporobacter glycolicus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	567	C00216	Terrisporobacter glycolicus	100	v12	36841	150.13	-2.5823	4.0	5.0
+Terrisporobacter glycolicus	D-Galactose	Consumption (import) (-)	567	C00124	Terrisporobacter glycolicus	100	v12	36841	180.156	-3.2214	5.0	6.0
+Terrisporobacter glycolicus	D-Mannitol (Mannitol)	Consumption (import) (-)	567	C00392	Terrisporobacter glycolicus	100	v12	36841	182.17200000000005	-3.5853999999999986	6.0	6.0
+Terrisporobacter glycolicus	D-Mannose (Mannose)	Consumption (import) (-)	567	C00159	Terrisporobacter glycolicus	100	v12	36841	180.156	-3.2214	5.0	6.0
+Terrisporobacter glycolicus	D-Ribose (Ribose)	Consumption (import) (-)	567	C00121	Terrisporobacter glycolicus	100	v12	36841	150.13	-2.5823	4.0	5.0
+Terrisporobacter glycolicus	Fumarate	Consumption (import) (-)	567	C00122	Terrisporobacter glycolicus	100	v12	36841	116.07199999999996	-0.2881999999999998	2.0	2.0
+Terrisporobacter glycolicus	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	567	C00186	Terrisporobacter glycolicus	100	v12	36841	90.078	-0.5482	2.0	2.0
+Terrisporobacter glycolicus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	567	C00507	Terrisporobacter glycolicus	100	v12	36841	164.15699999999998	-2.1938	4.0	5.0
+Terrisporobacter glycolicus	Lactose	Consumption (import) (-)	567	C00243	Terrisporobacter glycolicus	100	v12	36841	342.2970000000001	-5.397199999999993	8.0	11.0
+Terrisporobacter glycolicus	Melibiose	Consumption (import) (-)	567	C05402	Terrisporobacter glycolicus	100	v12	36841	342.297	-5.397199999999993	8.0	11.0
+Terrisporobacter glycolicus	Raffinose	Consumption (import) (-)	567	C00492	Terrisporobacter glycolicus	100	v12	36841	504.43800000000016	-7.571399999999989	11.0	16.0
+Terrisporobacter glycolicus	Sucrose	Consumption (import) (-)	567	C00089	Terrisporobacter glycolicus	100	v12	36841	342.297	-5.395599999999992	8.0	11.0
+Terrisporobacter glycolicus	Sulfate (Sulfuric acid, Sulfite)	Consumption (import) (-)	567	C00059	Terrisporobacter glycolicus	100	v12	36841	98.07899999999998	-0.6527999999999998	2.0	2.0
+Terrisporobacter glycolicus	Thiosulfate	Consumption (import) (-)	567	C00320	Terrisporobacter glycolicus	100	v12	36841	113.139	-0.6638999999999999	1.0	3.0
+Terrisporobacter glycolicus	Trehalose	Consumption (import) (-)	567	C01083	Terrisporobacter glycolicus	100	v12	36841	342.2970000000001	-5.397199999999993	8.0	11.0
+Thermoanaerobacterium saccharolyticum	D-Ribose (Ribose)	Consumption (import) (-)	571	C00121	Thermoanaerobacterium saccharolyticum	100	v12	1094508	150.13	-2.5823	4.0	5.0
+Thermoanaerobacterium saccharolyticum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	571	C00794	Thermoanaerobacterium saccharolyticum	100	v12	1094508	182.17200000000005	-3.5853999999999986	6.0	6.0
+Thermoanaerobacterium saccharolyticum	Melibiose	Consumption (import) (-)	571	C05402	Thermoanaerobacterium saccharolyticum	100	v12	1094508	342.297	-5.397199999999993	8.0	11.0
+Thermoanaerobacterium saccharolyticum	Xylitol	Consumption (import) (-)	571	C00379	Thermoanaerobacterium saccharolyticum	100	v12	1094508	152.14600000000002	-2.9462999999999995	5.0	5.0
+Thermoanaerobacterium xylanolyticum	D-Ribose (Ribose)	Consumption (import) (-)	571	C00121	Thermoanaerobacterium xylanolyticum	100	v12	858215	150.13	-2.5823	4.0	5.0
+Thermoanaerobacterium xylanolyticum	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	571	C00186	Thermoanaerobacterium xylanolyticum	100	v12	858215	90.078	-0.5482	2.0	2.0
+Thermoanaerobacterium xylanolyticum	Melibiose	Consumption (import) (-)	571	C05402	Thermoanaerobacterium xylanolyticum	100	v12	858215	342.297	-5.397199999999993	8.0	11.0
+Thermoanaerobacterium xylanolyticum	Raffinose	Consumption (import) (-)	571	C00492	Thermoanaerobacterium xylanolyticum	100	v12	858215	504.43800000000016	-7.571399999999989	11.0	16.0
+Thermoanaerobacterium xylanolyticum	Xylitol	Consumption (import) (-)	571	C00379	Thermoanaerobacterium xylanolyticum	100	v12	858215	152.14600000000002	-2.9462999999999995	5.0	5.0
+Thermoclostridium stercorarium	D-Fructose (Fructose)	Consumption (import) (-)	467	C00095	Thermoclostridium stercorarium	100	v12	1121335	180.156	-3.2198	5.0	6.0
+Thermoclostridium stercorarium	D-Mannitol (Mannitol)	Consumption (import) (-)	467, 468	C00392	Thermoclostridium stercorarium	100	v12	1121335	182.17200000000005	-3.5853999999999986	6.0	6.0
+Thermoclostridium stercorarium	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	467, 468	C00794	Thermoclostridium stercorarium	100	v12	1121335	182.17200000000005	-3.5853999999999986	6.0	6.0
+Thermoclostridium stercorarium	Erythritol	Consumption (import) (-)	467	C00503	Thermoclostridium stercorarium	100	v12	1121335	122.12	-2.3071999999999995	4.0	4.0
+Thermoclostridium stercorarium	Glycerol	Consumption (import) (-)	467	C00116	Thermoclostridium stercorarium	100	v12	1121335	92.094	-1.6681	3.0	3.0
+Thermoclostridium stercorarium	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	467	C00137	Thermoclostridium stercorarium	100	v12	1121335	180.156	-3.834600000000001	6.0	6.0
+Thermoclostridium stercorarium	L-Sorbose (Sorbose)	Consumption (import) (-)	467	C00247	Thermoclostridium stercorarium	100	v12	1121335	180.156	-3.2198	5.0	6.0
+Thermoclostridium stercorarium	Raffinose	Consumption (import) (-)	467	C00492	Thermoclostridium stercorarium	100	v12	1121335	504.43800000000016	-7.571399999999989	11.0	16.0
+Thermoclostridium stercorarium	Sucrose	Consumption (import) (-)	467	C00089	Thermoclostridium stercorarium	100	v12	1121335	342.297	-5.395599999999992	8.0	11.0
+Thermoclostridium stercorarium	Sulfate (Sulfuric acid, Sulfite)	Consumption (import) (-)	467	C00059	Thermoclostridium stercorarium	100	v12	1121335	98.07899999999998	-0.6527999999999998	2.0	2.0
+Thermoclostridium stercorarium	Trehalose	Consumption (import) (-)	467	C01083	Thermoclostridium stercorarium	100	v12	1121335	342.2970000000001	-5.397199999999993	8.0	11.0
+Thermodesulfatator atlanticus	Acetate	Consumption (import) (-)	684	C00033	Thermodesulfatator atlanticus	100	v12	1123371	60.05200000000001	0.0908999999999999	1.0	1.0
+Thermodesulfatator atlanticus	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	684	C00186	Thermodesulfatator atlanticus	100	v12	1123371	90.078	-0.5482	2.0	2.0
+Thermodesulfatator atlanticus	Pyruvate	Consumption (import) (-)	684	C00022	Thermodesulfatator atlanticus	100	v12	1123371	88.062	-0.3400000000000001	1.0	2.0
+Thermodesulfatator atlanticus	Thiosulfate	Consumption (import) (-)	684	C00320	Thermodesulfatator atlanticus	100	v12	1123371	113.139	-0.6638999999999999	1.0	3.0
+Thermodesulfatator indicus	Pyruvate	Consumption (import) (-)	572	C00022	Thermodesulfatator indicus	100	v12	667014	88.062	-0.3400000000000001	1.0	2.0
+Thermodesulfobacterium geofontis	Acetate	Consumption (import) (-)	573	C00033	Thermodesulfobacterium geofontis	100	v12	795359	60.05200000000001	0.0908999999999999	1.0	1.0
+Thermodesulfobacterium geofontis	Benzoate	Consumption (import) (-)	573	C00180	Thermodesulfobacterium geofontis	100	v12	795359	122.12299999999998	1.3848	1.0	1.0
+Thermodesulfobacterium geofontis	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	573	C00186	Thermodesulfobacterium geofontis	100	v12	795359	90.078	-0.5482	2.0	2.0
+Thermodesulfobacterium geofontis	Pyruvate	Consumption (import) (-)	573	C00022	Thermodesulfobacterium geofontis	100	v12	795359	88.062	-0.3400000000000001	1.0	2.0
+Thermodesulfobacterium thermophilum	Butyrate	Consumption (import) (-)	674	C00246	Thermodesulfobacterium thermophilum	100	v12	1123373	88.106	0.8711	1.0	1.0
+Thermodesulfobacterium thermophilum	Choline	Consumption (import) (-)	674	C00114	Thermodesulfobacterium thermophilum	100	v12	1123373	104.173	-0.3151000000000001	1.0	1.0
+Thermodesulfobium narugense	Fumarate	Consumption (import) (-)	574	C00122	Thermodesulfobium narugense	100	v12	747365	116.07199999999996	-0.2881999999999998	2.0	2.0
+Thermus igniterrae	Citrate	Consumption (import) (-)	575	C00158	Thermus igniterrae	100	v12	1123388	192.123	-1.2485	4.0	4.0
+Thermus igniterrae	Erythritol	Consumption (import) (-)	575	C00503	Thermus igniterrae	100	v12	1123388	122.12	-2.3071999999999995	4.0	4.0
+Thermus igniterrae	Glycerol	Consumption (import) (-)	575	C00116	Thermus igniterrae	100	v12	1123388	92.094	-1.6681	3.0	3.0
+Thermus igniterrae	L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)	Consumption (import) (-)	575	C00149	Thermus igniterrae	100	v12	1123388	134.087	-1.0934	3.0	3.0
+Thermus igniterrae	Lactose	Consumption (import) (-)	575	C00243	Thermus igniterrae	100	v12	1123388	342.2970000000001	-5.397199999999993	8.0	11.0
+Thermus igniterrae	Xylitol	Consumption (import) (-)	575	C00379	Thermus igniterrae	100	v12	1123388	152.14600000000002	-2.9462999999999995	5.0	5.0
+Thermus islandicus	Citrate	Consumption (import) (-)	576	C00158	Thermus islandicus	100	v12	1123389	192.123	-1.2485	4.0	4.0
+Thermus islandicus	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	576	C00216	Thermus islandicus	100	v12	1123389	150.13	-2.5823	4.0	5.0
+Thermus islandicus	D-Fructose (Fructose)	Consumption (import) (-)	576	C00095	Thermus islandicus	100	v12	1123389	180.156	-3.2198	5.0	6.0
+Thermus islandicus	D-Galactose	Consumption (import) (-)	576	C00124	Thermus islandicus	100	v12	1123389	180.156	-3.2214	5.0	6.0
+Thermus islandicus	D-Glucose (Glucose)	Consumption (import) (-)	576	C00031	Thermus islandicus	100	v12	1123389	180.156	-3.2214	5.0	6.0
+Thermus islandicus	D-Mannitol (Mannitol)	Consumption (import) (-)	576	C00392	Thermus islandicus	100	v12	1123389	182.17200000000005	-3.5853999999999986	6.0	6.0
+Thermus islandicus	D-Mannose (Mannose)	Consumption (import) (-)	576	C00159	Thermus islandicus	100	v12	1123389	180.156	-3.2214	5.0	6.0
+Thermus islandicus	D-Ribose (Ribose)	Consumption (import) (-)	576	C00121	Thermus islandicus	100	v12	1123389	150.13	-2.5823	4.0	5.0
+Thermus islandicus	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	576	C00794	Thermus islandicus	100	v12	1123389	182.17200000000005	-3.5853999999999986	6.0	6.0
+Thermus islandicus	D-Xylose (Xylose)	Consumption (import) (-)	576	C00181	Thermus islandicus	100	v12	1123389	150.13	-2.5823	4.0	5.0
+Thermus islandicus	L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)	Consumption (import) (-)	576	C00149	Thermus islandicus	100	v12	1123389	134.087	-1.0934	3.0	3.0
+Thermus islandicus	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	576	C00507	Thermus islandicus	100	v12	1123389	164.15699999999998	-2.1938	4.0	5.0
+Thermus islandicus	Melibiose	Consumption (import) (-)	576	C05402	Thermus islandicus	100	v12	1123389	342.297	-5.397199999999993	8.0	11.0
+Thermus islandicus	Raffinose	Consumption (import) (-)	576	C00492	Thermus islandicus	100	v12	1123389	504.43800000000016	-7.571399999999989	11.0	16.0
+Thermus islandicus	Ribitol (Adonitol)	Consumption (import) (-)	576	C00474	Thermus islandicus	100	v12	1123389	152.14600000000002	-2.9462999999999995	5.0	5.0
+Thermus islandicus	Sucrose	Consumption (import) (-)	576	C00089	Thermus islandicus	100	v12	1123389	342.297	-5.395599999999992	8.0	11.0
+Thermus islandicus	Trehalose	Consumption (import) (-)	576	C01083	Thermus islandicus	100	v12	1123389	342.2970000000001	-5.397199999999993	8.0	11.0
+Treponema bryantii	Acetate	Consumption (import) (-)	578	C00033	Treponema bryantii	100	v12	163	60.05200000000001	0.0908999999999999	1.0	1.0
+Treponema bryantii	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	578	C00257	Treponema bryantii	100	v12	163	196.155	-3.493099999999999	6.0	6.0
+Treponema bryantii	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	578	C00794	Treponema bryantii	100	v12	163	182.17200000000005	-3.5853999999999986	6.0	6.0
+Treponema bryantii	Fumarate	Consumption (import) (-)	578	C00122	Treponema bryantii	100	v12	163	116.07199999999996	-0.2881999999999998	2.0	2.0
+Treponema bryantii	Glycerol	Consumption (import) (-)	578	C00116	Treponema bryantii	100	v12	163	92.094	-1.6681	3.0	3.0
+Treponema bryantii	Maltose	Consumption (import) (-)	578	C00208	Treponema bryantii	100	v12	163	342.2970000000001	-5.397199999999993	8.0	11.0
+Treponema bryantii	Raffinose	Consumption (import) (-)	578	C00492	Treponema bryantii	100	v12	163	504.43800000000016	-7.571399999999989	11.0	16.0
+Treponema bryantii	Ribitol (Adonitol)	Consumption (import) (-)	578	C00474	Treponema bryantii	100	v12	163	152.14600000000002	-2.9462999999999995	5.0	5.0
+Treponema bryantii	Succinate	Consumption (import) (-)	578	C00042	Treponema bryantii	100	v12	163	118.08799999999998	-0.0642	2.0	2.0
+Treponema bryantii	Xylitol	Consumption (import) (-)	578	C00379	Treponema bryantii	100	v12	163	152.14600000000002	-2.9462999999999995	5.0	5.0
+Treponema primitia	Betaine (Glycine betaine)	Consumption (import) (-)	579	C00719	Treponema primitia ZAS2	95	v12	545694	117.14799999999998	-1.5574999999999992	0.0	2.0
+Treponema primitia	Choline	Consumption (import) (-)	579	C00114	Treponema primitia ZAS2	95	v12	545694	104.173	-0.3151000000000001	1.0	1.0
+Treponema primitia	D-Ribose (Ribose)	Consumption (import) (-)	579	C00121	Treponema primitia ZAS2	95	v12	545694	150.13	-2.5823	4.0	5.0
+Treponema primitia	L-Glycine (Glycine)	Consumption (import) (-)	579	C00037	Treponema primitia ZAS2	95	v12	545694	75.06700000000001	-0.9703	2.0	2.0
+Treponema primitia	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	579	C00186	Treponema primitia ZAS2	95	v12	545694	90.078	-0.5482	2.0	2.0
+Treponema primitia	Pyruvate	Consumption (import) (-)	579	C00022	Treponema primitia ZAS2	95	v12	545694	88.062	-0.3400000000000001	1.0	2.0
+Treponema succinifaciens	Acetate	Consumption (import) (-)	580	C00033	Treponema succinifaciens	100	v12	869209	60.05200000000001	0.0908999999999999	1.0	1.0
+Treponema succinifaciens	D-Gluconate (D-Gluconic acid, Gluconate)	Consumption (import) (-)	580	C00257	Treponema succinifaciens	100	v12	869209	196.155	-3.493099999999999	6.0	6.0
+Treponema succinifaciens	Glycerol	Consumption (import) (-)	580	C00116	Treponema succinifaciens	100	v12	869209	92.094	-1.6681	3.0	3.0
+Treponema succinifaciens	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	580	C00186	Treponema succinifaciens	100	v12	869209	90.078	-0.5482	2.0	2.0
+Treponema succinifaciens	Pyruvate	Consumption (import) (-)	580	C00022	Treponema succinifaciens	100	v12	869209	88.062	-0.3400000000000001	1.0	2.0
+Treponema succinifaciens	Raffinose	Consumption (import) (-)	580	C00492	Treponema succinifaciens	100	v12	869209	504.43800000000016	-7.571399999999989	11.0	16.0
+Treponema succinifaciens	Succinate	Consumption (import) (-)	580	C00042	Treponema succinifaciens	100	v12	869209	118.08799999999998	-0.0642	2.0	2.0
+Treponema succinifaciens	Sucrose	Consumption (import) (-)	580	C00089	Treponema succinifaciens	100	v12	869209	342.297	-5.395599999999992	8.0	11.0
+Treponema succinifaciens	Trehalose	Consumption (import) (-)	580	C01083	Treponema succinifaciens	100	v12	869209	342.2970000000001	-5.397199999999993	8.0	11.0
+Treponema succinifaciens	Xylitol	Consumption (import) (-)	580	C00379	Treponema succinifaciens	100	v12	869209	152.14600000000002	-2.9462999999999995	5.0	5.0
+Virgibacillus halodenitrificans	L-Tyrosine (Tyrosine)	Consumption (import) (-)	603	C00082	Virgibacillus halodenitrificans	100	v12	1482	181.191	0.3465999999999998	3.0	3.0
+Weissella confusa	D-Mannitol (Mannitol)	Consumption (import) (-)	605	C00392	Weissella confusa	100	v12	1583	182.17200000000005	-3.5853999999999986	6.0	6.0
+Weissella confusa	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	605	C00794	Weissella confusa	100	v12	1583	182.17200000000005	-3.5853999999999986	6.0	6.0
+Weissella confusa	Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)	Consumption (import) (-)	605	C00721	Weissella confusa	100	v12	1583	324.28200000000004	-3.9316999999999984	6.0	10.0
+Weissella confusa	Glycerol	Consumption (import) (-)	605	C00116	Weissella confusa	100	v12	1583	92.094	-1.6681	3.0	3.0
+Weissella confusa	Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)	Consumption (import) (-)	605	C00137	Weissella confusa	100	v12	1583	180.156	-3.834600000000001	6.0	6.0
+Weissella confusa	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	605	C00507	Weissella confusa	100	v12	1583	164.15699999999998	-2.1938	4.0	5.0
+Weissella confusa	Melibiose	Consumption (import) (-)	606	C05402	Weissella confusa	100	v12	1583	342.297	-5.397199999999993	8.0	11.0
+Weissella confusa	Raffinose	Consumption (import) (-)	606	C00492	Weissella confusa	100	v12	1583	504.43800000000016	-7.571399999999989	11.0	16.0
+Weissella confusa	Trehalose	Consumption (import) (-)	606	C01083	Weissella confusa	100	v12	1583	342.2970000000001	-5.397199999999993	8.0	11.0
+Zymomonas mobilis	Cellobiose	Consumption (import) (-)	191	C00185	Zymomonas mobilis ZM4	95	v12	264203	342.2970000000001	-5.397199999999993	8.0	11.0
+Zymomonas mobilis	Citrate	Consumption (import) (-)	191	C00158	Zymomonas mobilis ZM4	95	v12	264203	192.123	-1.2485	4.0	4.0
+Zymomonas mobilis	D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)	Consumption (import) (-)	191	C00216	Zymomonas mobilis ZM4	95	v12	264203	150.13	-2.5823	4.0	5.0
+Zymomonas mobilis	D-Mannitol (Mannitol)	Consumption (import) (-)	191	C00392	Zymomonas mobilis ZM4	95	v12	264203	182.17200000000005	-3.5853999999999986	6.0	6.0
+Zymomonas mobilis	D-Mannose (Mannose)	Consumption (import) (-)	191	C00159	Zymomonas mobilis ZM4	95	v12	264203	180.156	-3.2214	5.0	6.0
+Zymomonas mobilis	D-Ribose (Ribose)	Consumption (import) (-)	191	C00121	Zymomonas mobilis ZM4	95	v12	264203	150.13	-2.5823	4.0	5.0
+Zymomonas mobilis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	191	C00794	Zymomonas mobilis ZM4	95	v12	264203	182.17200000000005	-3.5853999999999986	6.0	6.0
+Zymomonas mobilis	D-Xylose (Xylose)	Consumption (import) (-)	191	C00181	Zymomonas mobilis ZM4	95	v12	264203	150.13	-2.5823	4.0	5.0
+Zymomonas mobilis	Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)	Consumption (import) (-)	191	C00721	Zymomonas mobilis ZM4	95	v12	264203	324.28200000000004	-3.9316999999999984	6.0	10.0
+Zymomonas mobilis	Erythritol	Consumption (import) (-)	191	C00503	Zymomonas mobilis ZM4	95	v12	264203	122.12	-2.3071999999999995	4.0	4.0
+Zymomonas mobilis	Galactitol (Dulcitol)	Consumption (import) (-)	191	C01697	Zymomonas mobilis ZM4	95	v12	264203	182.17200000000005	-3.5853999999999986	6.0	6.0
+Zymomonas mobilis	Glycerol	Consumption (import) (-)	191	C00116	Zymomonas mobilis ZM4	95	v12	264203	92.094	-1.6681	3.0	3.0
+Zymomonas mobilis	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Consumption (import) (-)	191	C00186	Zymomonas mobilis ZM4	95	v12	264203	90.078	-0.5482	2.0	2.0
+Zymomonas mobilis	L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)	Consumption (import) (-)	191	C00149	Zymomonas mobilis ZM4	95	v12	264203	134.087	-1.0934	3.0	3.0
+Zymomonas mobilis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	191	C00507	Zymomonas mobilis ZM4	95	v12	264203	164.15699999999998	-2.1938	4.0	5.0
+Zymomonas mobilis	L-Sorbose (Sorbose)	Consumption (import) (-)	191	C00247	Zymomonas mobilis ZM4	95	v12	264203	180.156	-3.2198	5.0	6.0
+Zymomonas mobilis	Lactose	Consumption (import) (-)	191	C00243	Zymomonas mobilis ZM4	95	v12	264203	342.2970000000001	-5.397199999999993	8.0	11.0
+Zymomonas mobilis	Maltose	Consumption (import) (-)	191	C00208	Zymomonas mobilis ZM4	95	v12	264203	342.2970000000001	-5.397199999999993	8.0	11.0
+Zymomonas mobilis	Pyruvate	Consumption (import) (-)	191	C00022	Zymomonas mobilis ZM4	95	v12	264203	88.062	-0.3400000000000001	1.0	2.0
+Zymomonas mobilis	Raffinose	Consumption (import) (-)	191	C00492	Zymomonas mobilis ZM4	95	v12	264203	504.43800000000016	-7.571399999999989	11.0	16.0
+Zymomonas mobilis	Ribitol (Adonitol)	Consumption (import) (-)	191	C00474	Zymomonas mobilis ZM4	95	v12	264203	152.14600000000002	-2.9462999999999995	5.0	5.0
+Zymomonas mobilis	Succinate	Consumption (import) (-)	191	C00042	Zymomonas mobilis ZM4	95	v12	264203	118.08799999999998	-0.0642	2.0	2.0
+Zymomonas mobilis	Trehalose	Consumption (import) (-)	191	C01083	Zymomonas mobilis ZM4	95	v12	264203	342.2970000000001	-5.397199999999993	8.0	11.0
+Zymomonas mobilis	meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)	Consumption (import) (-)	191	C00552	Zymomonas mobilis ZM4	95	v12	264203	150.08599999999998	-2.1226	4.0	4.0
+Thermus islandicus	Nitrate (NO3-)	Consumption (import) (-)	576	C00244	Thermus islandicus	100	v12	1123389	63.012	-0.3477	1.0	2.0
+Turicibacter sanguinis	Nitrate (NO3-)	Consumption (import) (-)	601	C00244	Turicibacter sanguinis	100	v12	702450	63.012	-0.3477	1.0	2.0
+Aerococcus viridans	Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)	Production (export) (-)	607	C00466	Aerococcus viridans	100	v12	1377	88.106	-0.0438	1.0	2.0
+Alloprevotella rava	Indole	Production (export) (-)	473	C00463	Alloprevotella rava	100	v12	679199	117.15099999999995	2.1678999999999995	1.0	0.0
+Anaerostipes caccae	Indole	Production (export) (-)	621	C00463	Anaerostipes caccae	100	v12	411490	117.15099999999995	2.1678999999999995	1.0	0.0
+Bacteroides coprosuis	Indole	Production (export) (-)	425	C00463	Bacteroides coprosuis	100	v12	679937	117.15099999999995	2.1678999999999995	1.0	0.0
+Bacteroides massiliensis	Indole	Production (export) (-)	426	C00463	Bacteroides massiliensis	100	v12	1121098	117.15099999999995	2.1678999999999995	1.0	0.0
+Bacteroides pyogenes	Indole	Production (export) (-)	429	C00463	Bacteroides pyogenes JCM10003	95	v12	1235813	117.15099999999995	2.1678999999999995	1.0	0.0
+Blautia producta	Butyrate	Production (export) (-)	430	C00246	Blautia producta	100	v12	1121114	88.106	0.8711	1.0	1.0
+Blautia producta	Indole	Production (export) (-)	430	C00463	Blautia producta	100	v12	1121114	117.15099999999995	2.1678999999999995	1.0	0.0
+Brachyspira hampsonii	Hippurate	Production (export) (-)	731	C01586	Brachyspira hampsonii	100	v12	1289135	179.17499999999998	0.5009999999999999	2.0	2.0
+Brachyspira hampsonii	Indole	Production (export) (-)	731	C00463	Brachyspira hampsonii	100	v12	1289135	117.15099999999995	2.1678999999999995	1.0	0.0
+Capnocytophaga canimorsus	Indole	Production (export) (-)	452	C00463	Capnocytophaga canimorsus	100	v12	860228	117.15099999999995	2.1678999999999995	1.0	0.0
+Capnocytophaga cynodegmi	Indole	Production (export) (-)	452	C00463	Capnocytophaga cynodegmi	100	v12	28189	117.15099999999995	2.1678999999999995	1.0	0.0
+Clostridium clostridioforme	Butyrate	Production (export) (-)	461	C00246	Clostridium clostridioforme	100	v12	1280695	88.106	0.8711	1.0	1.0
+Clostridium clostridioforme	Propanoate (Propionate)	Production (export) (-)	461	C00163	Clostridium clostridioforme	100	v12	1280695	74.07900000000001	0.4809999999999999	1.0	1.0
+Clostridium colicanis	Indole	Production (export) (-)	462	C00463	Clostridium colicanis 209318	95	v12	999411	117.15099999999995	2.1678999999999995	1.0	0.0
+Clostridium saccharobutylicum	Indole	Production (export) (-)	465	C00463	Clostridium saccharobutylicum	100	v12	169679	117.15099999999995	2.1678999999999995	1.0	0.0
+Clostridium saccharobutylicum	Riboflavin (Vitamin B2)	Production (export) (-)	465	C00255	Clostridium saccharobutylicum	100	v12	169679	376.36900000000014	-1.7235599999999998	5.0	9.0
+Clostridium saccharoperbutylacetonicum	Indole	Production (export) (-)	465	C00463	Clostridium saccharoperbutylacetonicum	100	v12	36745	117.15099999999995	2.1678999999999995	1.0	0.0
+Dysgonomonas gadei	Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)	Production (export) (-)	476	C00466	Dysgonomonas gadei	100	v12	742766	88.106	-0.0438	1.0	2.0
+Dysgonomonas mossii	Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)	Production (export) (-)	477	C00466	Dysgonomonas mossii	100	v12	742767	88.106	-0.0438	1.0	2.0
+Enterococcus gallinarum	Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)	Production (export) (-)	242	C00466	Enterococcus gallinarum	100	v12	1353	88.106	-0.0438	1.0	2.0
+Enterococcus phoeniculicola	Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)	Production (export) (-)	486	C00466	Enterococcus phoeniculicola	100	v12	154621	88.106	-0.0438	1.0	2.0
+Enterococcus phoeniculicola	Indole	Production (export) (-)	486	C00463	Enterococcus phoeniculicola	100	v12	154621	117.15099999999995	2.1678999999999995	1.0	0.0
+Eubacterium plexicaudatum	Indole	Production (export) (-)	613	C00463	Eubacterium plexicaudatum	100	v12	1235802	117.15099999999995	2.1678999999999995	1.0	0.0
+Flexithrix dorotheae	Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)	Production (export) (-)	496	C00466	Flexithrix dorotheae	100	v12	1121904	88.106	-0.0438	1.0	2.0
+Flexithrix dorotheae	Indole	Production (export) (-)	496	C00463	Flexithrix dorotheae	100	v12	1121904	117.15099999999995	2.1678999999999995	1.0	0.0
+Fusobacterium russii	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Production (export) (-)	81	C00186	Fusobacterium russii	100	v12	1278306	90.078	-0.5482	2.0	2.0
+Fusobacterium russii	L-Threonine (Threonine)	Production (export) (-)	81	C00188	Fusobacterium russii	100	v12	1278306	119.12	-1.2209	3.0	3.0
+Holdemanella biformis	Indole	Production (export) (-)	506	C00463	Holdemanella biformis	100	v12	518637	117.15099999999995	2.1678999999999995	1.0	0.0
+Hungateiclostridium clariflavum	Indole	Production (export) (-)	751	C00463	Hungateiclostridium clariflavum	100	v12	720554	117.15099999999995	2.1678999999999995	1.0	0.0
+Johnsonella ignava	Indole	Production (export) (-)	508	C00463	Johnsonella ignava	100	v12	679200	117.15099999999995	2.1678999999999995	1.0	0.0
+Lachnobacterium bovis	Indole	Production (export) (-)	509	C00463	Lachnobacterium bovis	100	v12	1122142	117.15099999999995	2.1678999999999995	1.0	0.0
+Leptotrichia goodfellowii	Indole	Production (export) (-)	315	C00463	Leptotrichia goodfellowii	100	v12	714315	117.15099999999995	2.1678999999999995	1.0	0.0
+Leptotrichia hofstadii	Indole	Production (export) (-)	315	C00463	Leptotrichia hofstadii	100	v12	634994	117.15099999999995	2.1678999999999995	1.0	0.0
+Leptotrichia shahii	Indole	Production (export) (-)	315	C00463	Leptotrichia shahii	100	v12	1122172	117.15099999999995	2.1678999999999995	1.0	0.0
+Leptotrichia wadei	Indole	Production (export) (-)	315	C00463	Leptotrichia wadei	100	v12	157687	117.15099999999995	2.1678999999999995	1.0	0.0
+Megamonas funiformis	Indole	Production (export) (-)	320	C00463	Megamonas funiformis	100	v12	437897	117.15099999999995	2.1678999999999995	1.0	0.0
+Megamonas hypermegale	Indole	Production (export) (-)	672	C00463	Megamonas hypermegale	100	v12	1122216	117.15099999999995	2.1678999999999995	1.0	0.0
+Parabacteroides distasonis	Indole	Production (export) (-)	340(G)	C00463	Parabacteroides distasonis	100	v12	435591	117.15099999999995	2.1678999999999995	1.0	0.0
+Parabacteroides distasonis	Urea	Production (export) (-)	340	C00086	Parabacteroides distasonis	100	v12	435591	60.056	-0.9762000000000002	2.0	1.0
+Parabacteroides goldsteinii	Indole	Production (export) (-)	340(G)	C00463	Parabacteroides goldsteinii	100	v12	927665	117.15099999999995	2.1678999999999995	1.0	0.0
+Parabacteroides goldsteinii	Urea	Production (export) (-)	340	C00086	Parabacteroides goldsteinii	100	v12	927665	60.056	-0.9762000000000002	2.0	1.0
+Parabacteroides johnsonii	Indole	Production (export) (-)	342, 340(G)	C00463	Parabacteroides johnsonii	100	v12	537006	117.15099999999995	2.1678999999999995	1.0	0.0
+Parabacteroides johnsonii	Urea	Production (export) (-)	342	C00086	Parabacteroides johnsonii	100	v12	537006	60.056	-0.9762000000000002	2.0	1.0
+Parabacteroides merdae	Indole	Production (export) (-)	340(G)	C00463	Parabacteroides merdae	100	v12	46503	117.15099999999995	2.1678999999999995	1.0	0.0
+Parabacteroides merdae	Urea	Production (export) (-)	340	C00086	Parabacteroides merdae	100	v12	46503	60.056	-0.9762000000000002	2.0	1.0
+Peptoniphilus lacrimalis	Indole	Production (export) (-)	35	C00463	Peptoniphilus lacrimalis	100	v12	1122949	117.15099999999995	2.1678999999999995	1.0	0.0
+Proteiniphilum acetatigenes	Indole	Production (export) (-)	549	C00463	Proteiniphilum acetatigenes	100	v12	1123008	117.15099999999995	2.1678999999999995	1.0	0.0
+Pseudoflavonifractor capillosus	Indole	Production (export) (-)	365	C00463	Pseudoflavonifractor capillosus	100	v12	411467	117.15099999999995	2.1678999999999995	1.0	0.0
+Succinispira mobilis	Indole	Production (export) (-)	566	C00463	Succinispira mobilis	100	v12	1069080	117.15099999999995	2.1678999999999995	1.0	0.0
+Terrisporobacter glycolicus	Butyrate	Production (export) (-)	567	C00246	Terrisporobacter glycolicus	100	v12	36841	88.106	0.8711	1.0	1.0
+Terrisporobacter glycolicus	Caproate (Hexanoate)	Production (export) (-)	567	C01585	Terrisporobacter glycolicus	100	v12	36841	116.15999999999998	1.6513	1.0	1.0
+Terrisporobacter glycolicus	Indole	Production (export) (-)	567	C00463	Terrisporobacter glycolicus	100	v12	36841	117.15099999999995	2.1678999999999995	1.0	0.0
+Thermoanaerobacterium xylanolyticum	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Production (export) (-)	571	C00186	Thermoanaerobacterium xylanolyticum	100	v12	858215	90.078	-0.5482	2.0	2.0
+Turicibacter sanguinis	Indole	Production (export) (-)	601	C00463	Turicibacter sanguinis	100	v12	702450	117.15099999999995	2.1678999999999995	1.0	0.0
+Turicibacter sanguinis	L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)	Production (export) (-)	601	C00186	Turicibacter sanguinis	100	v12	702450	90.078	-0.5482	2.0	2.0
+Virgibacillus halodenitrificans	Indole	Production (export) (-)	604	C00463	Virgibacillus halodenitrificans	100	v12	1482	117.15099999999995	2.1678999999999995	1.0	0.0
+Zymomonas mobilis	Indole	Production (export) (-)	191	C00463	Zymomonas mobilis ZM4	95	v12	264203	117.15099999999995	2.1678999999999995	1.0	0.0
+Absiella dolichum	Fructan (Inulin, Levan)	Macromolecule degradation (-)	424	C01355	Absiella dolichum	100	v12	428127	504.4380000000004	-7.568200000000004	11.0	16.0
+Actinosynnema mirum	Fructan (Inulin, Levan)	Macromolecule degradation (-)	631	C01355	Actinosynnema mirum	100	v12	446462	504.4380000000004	-7.568200000000004	11.0	16.0
+Bacteroides massiliensis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	426	C01355	Bacteroides massiliensis	100	v12	1121098	504.4380000000004	-7.568200000000004	11.0	16.0
+Bacteroides vulgatus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	75, 99	C01355	Bacteroides vulgatus	100	v12	435590	504.4380000000004	-7.568200000000004	11.0	16.0
+Butyrivibrio crossotus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	171, 242	C01355	Butyrivibrio crossotus	100	v12	45851	504.4380000000004	-7.568200000000004	11.0	16.0
+Butyrivibrio crossotus	Pectin	Macromolecule degradation (-)	171	C00714	Butyrivibrio crossotus	100	v12	45851	732.5500000000003	-7.737300000000007	10.0	22.0
+Capnocytophaga canimorsus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	452	C01355	Capnocytophaga canimorsus	100	v12	860228	504.4380000000004	-7.568200000000004	11.0	16.0
+Catellicoccus marimammalium	Fructan (Inulin, Levan)	Macromolecule degradation (-)	453	C01355	Catellicoccus marimammalium	100	v12	1234409	504.4380000000004	-7.568200000000004	11.0	16.0
+Catellicoccus marimammalium	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	453	C00317	Catellicoccus marimammalium	100	v12	1234409	828.7199999999999	-11.924600000000012	17.0	26.0
+Clostridium celatum	Fructan (Inulin, Levan)	Macromolecule degradation (-)	459	C01355	Clostridium celatum	100	v12	545697	504.4380000000004	-7.568200000000004	11.0	16.0
+Clostridium citroniae	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	460	C00317	Clostridium citroniae	100	v12	358743	828.7199999999999	-11.924600000000012	17.0	26.0
+Clostridium clostridioforme	Fructan (Inulin, Levan)	Macromolecule degradation (-)	242, 461	C01355	Clostridium clostridioforme	100	v12	1280695	504.4380000000004	-7.568200000000004	11.0	16.0
+Clostridium clostridioforme	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	461	C00317	Clostridium clostridioforme	100	v12	1280695	828.7199999999999	-11.924600000000012	17.0	26.0
+Clostridium saccharobutylicum	Pectin	Macromolecule degradation (-)	465	C00714	Clostridium saccharobutylicum	100	v12	169679	732.5500000000003	-7.737300000000007	10.0	22.0
+Emticicia oligotrophica	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	483	C00760	Emticicia oligotrophica	100	v12	929562	162.141	-1.7559000000000002	3.0	5.0
+Emticicia oligotrophica	Chitin	Macromolecule degradation (-)	483	C00461	Emticicia oligotrophica	100	v12	929562	203.194	-2.0319999999999983	3.0	5.0
+Emticicia oligotrophica	Fructan (Inulin, Levan)	Macromolecule degradation (-)	483	C01355	Emticicia oligotrophica	100	v12	929562	504.4380000000004	-7.568200000000004	11.0	16.0
+Enterococcus caccae	Fructan (Inulin, Levan)	Macromolecule degradation (-)	484	C01355	Enterococcus caccae	100	v12	317735	504.4380000000004	-7.568200000000004	11.0	16.0
+Enterococcus caccae	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	484	C00317	Enterococcus caccae	100	v12	317735	828.7199999999999	-11.924600000000012	17.0	26.0
+Enterococcus haemoperoxidus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	485	C01355	Enterococcus haemoperoxidus	100	v12	155618	504.4380000000004	-7.568200000000004	11.0	16.0
+Enterococcus phoeniculicola	Fructan (Inulin, Levan)	Macromolecule degradation (-)	486	C01355	Enterococcus phoeniculicola	100	v12	154621	504.4380000000004	-7.568200000000004	11.0	16.0
+Enterococcus villorum	Fructan (Inulin, Levan)	Macromolecule degradation (-)	487	C01355	Enterococcus villorum	100	v12	112904	504.4380000000004	-7.568200000000004	11.0	16.0
+Enterococcus villorum	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	487	C00317	Enterococcus villorum	100	v12	112904	828.7199999999999	-11.924600000000012	17.0	26.0
+Eubacterium cellulosolvens	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	738	C00317	Eubacterium cellulosolvens	100	v12	633697	828.7199999999999	-11.924600000000012	17.0	26.0
+Eubacterium ramulus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	424	C01355	Eubacterium ramulus	100	v12	39490	504.4380000000004	-7.568200000000004	11.0	16.0
+Filifactor alocis	Pectin	Macromolecule degradation (-)	491	C00714	Filifactor alocis	100	v12	546269	732.5500000000003	-7.737300000000007	10.0	22.0
+Flavobacterium columnare	Chitin	Macromolecule degradation (-)	494	C00461	Flavobacterium columnare	100	v12	1041826	203.194	-2.0319999999999983	3.0	5.0
+Flavobacterium frigoris	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	658	C00760	Flavobacterium frigoris	100	v12	1086011	162.141	-1.7559000000000002	3.0	5.0
+Flavobacterium frigoris	Chitin	Macromolecule degradation (-)	658	C00461	Flavobacterium frigoris	100	v12	1086011	203.194	-2.0319999999999983	3.0	5.0
+Flavobacterium frigoris	Pectin	Macromolecule degradation (-)	658	C00714	Flavobacterium frigoris	100	v12	1086011	732.5500000000003	-7.737300000000007	10.0	22.0
+Gemella morbillorum	Fructan (Inulin, Levan)	Macromolecule degradation (-)	499	C01355	Gemella morbillorum	100	v12	562982	504.4380000000004	-7.568200000000004	11.0	16.0
+Gemella sanguinis	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	500	C00317	Gemella sanguinis	100	v12	84135	828.7199999999999	-11.924600000000012	17.0	26.0
+Halanaerobium praevalens	Chitin	Macromolecule degradation (-)	242	C00461	Halanaerobium praevalens	100	v12	572479	203.194	-2.0319999999999983	3.0	5.0
+Halanaerobium praevalens	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	242	C00317	Halanaerobium praevalens	100	v12	572479	828.7199999999999	-11.924600000000012	17.0	26.0
+Helcococcus kunzii	Fructan (Inulin, Levan)	Macromolecule degradation (-)	660	C01355	Helcococcus kunzii	100	v12	883114	504.4380000000004	-7.568200000000004	11.0	16.0
+Holdemanella biformis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	506	C01355	Holdemanella biformis	100	v12	518637	504.4380000000004	-7.568200000000004	11.0	16.0
+Johnsonella ignava	Arabinogalactan	Macromolecule degradation (-)	508	C00569	Johnsonella ignava	100	v12	679200	500.49400000000026	-4.5555999999999885	7.0	14.0
+Johnsonella ignava	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	508	C00317	Johnsonella ignava	100	v12	679200	828.7199999999999	-11.924600000000012	17.0	26.0
+Lactobacillus ingluviei	Fructan (Inulin, Levan)	Macromolecule degradation (-)	730	C01355	Lactobacillus ingluviei	100	v12	1203076	504.4380000000004	-7.568200000000004	11.0	16.0
+Lactobacillus ingluviei	Fructan (Inulin, Levan)	Macromolecule degradation (-)	726, 730	C01355	Lactobacillus ingluviei	100	v12	1203076	504.4380000000004	-7.568200000000004	11.0	16.0
+Lactobacillus pentosus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	741	C01355	Lactobacillus pentosus	100	v12	1589	504.4380000000004	-7.568200000000004	11.0	16.0
+Megamonas hypermegale	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	672	C00317	Megamonas hypermegale	100	v12	1122216	828.7199999999999	-11.924600000000012	17.0	26.0
+Parabacteroides distasonis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	99	C01355	Parabacteroides distasonis	100	v12	435591	504.4380000000004	-7.568200000000004	11.0	16.0
+Paraclostridium bifermentans	Fructan (Inulin, Levan)	Macromolecule degradation (-)	242, 457	C01355	Paraclostridium bifermentans	100	v12	1490	504.4380000000004	-7.568200000000004	11.0	16.0
+Prevotella bryantii	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	78	C00760	Prevotella bryantii	100	v12	77095	162.141	-1.7559000000000002	3.0	5.0
+Prevotella ruminicola	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	78	C00760	Prevotella ruminicola	100	v12	264731	162.141	-1.7559000000000002	3.0	5.0
+Proteiniphilum acetatigenes	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	549	C00760	Proteiniphilum acetatigenes	100	v12	1123008	162.141	-1.7559000000000002	3.0	5.0
+Proteiniphilum acetatigenes	Fructan (Inulin, Levan)	Macromolecule degradation (-)	549	C01355	Proteiniphilum acetatigenes	100	v12	1123008	504.4380000000004	-7.568200000000004	11.0	16.0
+Roseburia hominis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	551	C01355	Roseburia hominis	100	v12	585394	504.4380000000004	-7.568200000000004	11.0	16.0
+Ruminiclostridium cellobioparum	Pectin	Macromolecule degradation (-)	469	C00714	Ruminiclostridium cellobioparum	100	v12	1195236	732.5500000000003	-7.737300000000007	10.0	22.0
+Ruminiclostridium cellobioparum	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	469	C00317	Ruminiclostridium cellobioparum	100	v12	1195236	828.7199999999999	-11.924600000000012	17.0	26.0
+Streptococcus constellatus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	562	C01355	Streptococcus constellatus	100	v12	862969	504.4380000000004	-7.568200000000004	11.0	16.0
+Streptococcus cristatus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	724	C01355	Streptococcus cristatus	100	v12	45634	504.4380000000004	-7.568200000000004	11.0	16.0
+Streptococcus cristatus	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	724	C00317	Streptococcus cristatus	100	v12	45634	828.7199999999999	-11.924600000000012	17.0	26.0
+Streptococcus intermedius	Fructan (Inulin, Levan)	Macromolecule degradation (-)	562	C01355	Streptococcus intermedius	100	v12	1338	504.4380000000004	-7.568200000000004	11.0	16.0
+Streptococcus oralis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	565	C01355	Streptococcus oralis	100	v12	1303	504.4380000000004	-7.568200000000004	11.0	16.0
+Streptococcus pasteurianus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	564	C01355	Streptococcus pasteurianus	100	v12	981540	504.4380000000004	-7.568200000000004	11.0	16.0
+Streptococcus pasteurianus	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	563, 564	C00317	Streptococcus pasteurianus	100	v12	981540	828.7199999999999	-11.924600000000012	17.0	26.0
+Streptococcus urinalis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	728	C01355	Streptococcus urinalis	100	v12	764291	504.4380000000004	-7.568200000000004	11.0	16.0
+Streptococcus urinalis	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	728	C00317	Streptococcus urinalis	100	v12	764291	828.7199999999999	-11.924600000000012	17.0	26.0
+Terrisporobacter glycolicus	Fructan (Inulin, Levan)	Macromolecule degradation (-)	567	C01355	Terrisporobacter glycolicus	100	v12	36841	504.4380000000004	-7.568200000000004	11.0	16.0
+Thermoanaerobacterium saccharolyticum	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	571	C00760	Thermoanaerobacterium saccharolyticum	100	v12	1094508	162.141	-1.7559000000000002	3.0	5.0
+Thermoanaerobacterium xylanolyticum	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	571	C00760	Thermoanaerobacterium xylanolyticum	100	v12	858215	162.141	-1.7559000000000002	3.0	5.0
+Thermoclostridium stercorarium	Fructan (Inulin, Levan)	Macromolecule degradation (-)	467	C01355	Thermoclostridium stercorarium	100	v12	1121335	504.4380000000004	-7.568200000000004	11.0	16.0
+Treponema bryantii	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	578	C00760	Treponema bryantii	100	v12	163	162.141	-1.7559000000000002	3.0	5.0
+Treponema bryantii	Fructan (Inulin, Levan)	Macromolecule degradation (-)	578	C01355	Treponema bryantii	100	v12	163	504.4380000000004	-7.568200000000004	11.0	16.0
+Treponema bryantii	Pectin	Macromolecule degradation (-)	578	C00714	Treponema bryantii	100	v12	163	732.5500000000003	-7.737300000000007	10.0	22.0
+Treponema succinifaciens	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	580	C00760	Treponema succinifaciens	100	v12	869209	162.141	-1.7559000000000002	3.0	5.0
+Treponema succinifaciens	Fructan (Inulin, Levan)	Macromolecule degradation (-)	580	C01355	Treponema succinifaciens	100	v12	869209	504.4380000000004	-7.568200000000004	11.0	16.0
+Weissella confusa	Fructan (Inulin, Levan)	Macromolecule degradation (-)	605	C01355	Weissella confusa	100	v12	1583	504.4380000000004	-7.568200000000004	11.0	16.0
+Zymomonas mobilis	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	191	C00317	Zymomonas mobilis ZM4	95	v12	264203	828.7199999999999	-11.924600000000012	17.0	26.0
+Treponema bryantii	Fructan (Inulin, Levan)	Macromolecule degradation (-)	578	C03323	Treponema bryantii	100	v12	163	324.28200000000004	-3.9300999999999977	6.0	10.0
+Treponema succinifaciens	Fructan (Inulin, Levan)	Macromolecule degradation (-)	580	C03323	Treponema succinifaciens	100	v12	869209	324.28200000000004	-3.9300999999999977	6.0	10.0
+Weissella confusa	Fructan (Inulin, Levan)	Macromolecule degradation (-)	605	C03323	Weissella confusa	100	v12	1583	324.28200000000004	-3.9300999999999977	6.0	10.0
+Zymomonas mobilis	Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)	Macromolecule degradation (-)	191	C00369	Zymomonas mobilis ZM4	95	v12	264203	324.28200000000004	-3.9316999999999966	6.0	10.0
+Brachyspira intermedia	Hippurate	Consumption (import) (-)	432	C01586	Brachyspira intermedia PWS/A	75	v11.5	1045858	179.17499999999998	0.5009999999999999	2.0	2.0
+Clostridium innocuum	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	463	C00794	[Clostridium] innocuum 2959	86	v11.5	999413	182.17200000000005	-3.5853999999999986	6.0	6.0
+Clostridium innocuum	Lactose	Consumption (import) (-)	463	C00243	[Clostridium] innocuum 2959	86	v11.5	999413	342.2970000000001	-5.397199999999993	8.0	11.0
+Megamonas rupellensis	L-Rhamnose (Rhamnose, D-Rhamnose)	Consumption (import) (-)	522	C00507	Megamonas rupellensis DSM 19944	70	v11.5	1122217	164.15699999999998	-2.1938	4.0	5.0
+Streptococcus vestibularis	D-Mannitol (Mannitol)	Consumption (import) (-)	399	C00392	Streptococcus vestibularis F0396	90	v11.5	904306	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus vestibularis	D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)	Consumption (import) (-)	399	C00794	Streptococcus vestibularis F0396	90	v11.5	904306	182.17200000000005	-3.5853999999999986	6.0	6.0
+Streptococcus vestibularis	Raffinose	Consumption (import) (-)	399	C00492	Streptococcus vestibularis F0396	90	v11.5	904306	504.43800000000016	-7.571399999999989	11.0	16.0
+Clostridium innocuum	Indole	Production (export) (-)	242, 463	C00463	[Clostridium] innocuum 2959	86	v11.5	999413	117.15099999999995	2.1678999999999995	1.0	0.0
+Clostridium innocuum	Cellulose (Beta-D-glucan)	Macromolecule degradation (-)	463	C00760	[Clostridium] innocuum 2959	86	v11.5	999413	162.141	-1.7559000000000002	3.0	5.0
+Streptococcus vestibularis	Fructan (Inulin, Levan)	Macromolecule degradation (-)	399	C01355	Streptococcus vestibularis F0396	90	v11.5	904306	504.4380000000004	-7.568200000000004	11.0	16.0
